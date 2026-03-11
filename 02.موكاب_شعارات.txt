@@ -1,0 +1,163 @@
+{
+  "quotes": [
+"#1
+Erzeuge ein extrem realistisches Hologramm des hochgeladenen Logos in dichter Nebelatmosphäre. Das Logo schwebt frei, leicht transparent, mit fein aufgelöstem Glühen an den Kanten (bloom dezent). Von einem Punkt unter dem Logo gehen klare volumetrische Lichtstrahlen (God Rays'') durch den Nebel nach oben; sichtbar durch Luftpartikel/Staub. Farben: nutze automatisch die Farben des Logos (optional: Farbe des Hologramms [Farbe_Holo], Hintergrund [Farbe_BG]). Lichtsetup: cineastisch, weiches Keylight von hinten/unten, sanftes Rim-Light; physikalisch plausibel (PBR), realistische Schatten im Bodendunst. Bild-look: modern wie Unreal Engine 5 / High-End-VFX, 50-85-mm Kamera, leichtes Bokeh, feine Nebel-Volu-mina, HDR-Kontrast ohne Clipping. Komposition: vertikales Poster **2:3** (Pinterest), viel Negativraum, Logo mittig/schwebend, Boden nur als diffuse Nebelbasis. Auflösung: ≥ 2000×3000 px, sehr hohe De-tailtreue. Vermeide Text, Wasserzeichen, zusätzliche Objekte oder harte Kanten.
+NEGATIV: Banding, Posterization, Noise, Cartoon-Look, zu starker Bloom, Farbverlauf-Hintergrund.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#2
+Erzeuge ein fotorealistisches 3D-Kissen exakt in der Silhouette des hochge-ladenen Logos. Material: weicher Stoff mit sichtbarer Webstruktur, plüschiges Volumen, gesteppte Nähte entlang der Konturen, leichte Falten. Farben: nutze die Originalfarben des Logos (optional: Hintergrund [Hintergrundfar-be], Flächen [Primärfarbe], Akzent [Akzentfarbe]). Licht: sauberes Studiol-icht, weiches Keylight von links oben, dezentes Fill, realistischer Bodenkon-taktschatten. Komposition: einzelnes Objekt, zentriert, viel Negativraum;
+Hochformat **2:3** (Pinterest); hohe Auflösung (= 2000×3000). Look:
+85-mm-Produktfoto, geringe Schärfentiefe, scharfe Nähte. Vermeide Text oder Wasserzeichen. NEGATIV: verzerrtes Logo, zusätzliche Objekte, Metall/Plastik-Material, harte Schlagschatten, Schmutz, Verlaufshintergrund, Wasserzeichen.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#3
+3D render of the uploaded shape covered in smooth plastic material-flat surface, low detail.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#4
+3D render of the uploaded shape cover in red plastic material -flat surface, low detail.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#5
+3D render of the uploaded shape covered in dusty blue frosted ice material-fine cracked veins slightly raised rough texture.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#6
+3D render of the uploaded image as a liquid metal sculpture with dripping effects.
+Use [COLOR AJas the metallic material color. Smooth, reflective surface with realistic highlights and soft shadows. Melting or dripping texture at the edges and bottom. Clean, minimalistic background with subtle gradient. No text, no branding.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#7
+3D render of the uploaded image transformed into thick, transparent ice-like material with glossy, frosty surface and internal cracks. Use [COLOR A] for subtle tint in the ice. Cold lighting with soft shadows and light reflections on a smooth surface. Slight condensation and water droplets nearby. Realistic, clean, cold look. No text.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#8
+Create a poster with a [e.g., 2:3] aspect ratio.
+A pill with [color Dark blue/navy] color Metallic gold/yellow   [brand] on top and transparent at the bottom, featuring the printed [PixelLabProPlus] logo.
+Inside the pill, include a large amount of [object]. [color white] background.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#9
+A 100% replica of the icon shown in the image. A three-dimensional (3D) glow in a dark and dramatic setting.
+
+• Material/Appearance: A highly polished, smooth glass or plastic appearance. The icon should have the same vibrant colors and an emissive glow.
+
+• Depth: The icon should appear to be embedded or deeply embedded in the surface.
+
+Environment/Surface:
+
+• Texture: A rough, earthy, or rocky surface (granular/cratered/volcanic ash). It should resemble dark black volcanic ash or coal dust.
+
+• Detail: The surface should have a lot of fine, grainy detail (fine grains/rough texture).
+
+Lighting and Atmosphere:
+
+• Main Light Source: A bright golden glow emanating directly from the icon itself.
+
+• Ambient Lighting: Very dark and moody (dark and moody/cinematic). Deep shadows. • Bokeh/Particles:
+
+• Tiny glowing points (bokeh or particles) in a bright gold (crimson red/scarlet) float around the icon, especially in the foreground and background.
+
+• Some of these points should illuminate the surrounding surface grains.
+
+• Overall Effect: Dramatic, mysterious, and high-contrast atmosphere (High Contrast/Mysterious/Sci-Fi Aesthetic).
+
+Artistic/Technical Style:
+
+• Style: Hyper-realistic Photography/Octane Render/Cinema 4D.
+
+• Image Quality: Ultra HD/4K/8K resolution, sharp focus on the icon, and shallow depth of field (DOF).
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#10
+A highly realistic 3D rendering of a small, attractive storefront building, using the loaded logo and matching its colors and corporate style. A sleek, modern design with large glass windows and a single transparent 3D logo. Easy-to-crop, focused, high-resolution background. Simple scaling angle, warm lighting, and soft shadows. (Additional: Designer plugins, 3D app icon). Image aspect ratio: 3:4.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#11
+A miniature model of a hyper-realistic showroom, meticulously crafted by human hands. Featuring modern, transparent glass walls, the showroom houses miniature, lifelike human figures interacting with the products. A glowing 3D brand logo adorns the top, and the words ''Pixellab Pro Plus'' are prominently displayed on the front. The interior is designed like a luxury boutique, showcasing products such as designer tools, Photoshop, AI, Gemini, ChatGpt, and computers. The lighting is cinematic and clean, with soft, warm colors, meticulous detail, and sharp focus. The product photography is professional, featuring realistic shadows and a sophisticated, elegant ambiance.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#12
+3D render of the uploaded image transformed into a glossy, translucent object with an iridescent rainbow surface. Add small suspended bubbles inside the material. Dark black background with glowing edges and vivid reflections. Smooth surface with a high-gloss finish. Futuristic, vibrant, and clean. No text or branding.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#13
+A realistic 3D rendering of a futuristic vending machine with glass walls, its color matching the product shown in the image, displays the same product with silver accents. Inside, five tiny workers, dressed in the same color as the product and wearing orange helmets, collect and inspect the same item. A realistic hand inserts a silver dollar coin into the slot. The lighting is crisp and clear, against a soft gray background. A cutting-edge technological concept combining miniature people with large-scale technology products, front view.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#14
+A photo of a trendy, pink clothing store in a vibrant city center, featuring sleek, mirrored glass windows and clean, minimalist architectural lines.
+
+Above the store hangs an enormous white sweater bearing the brand's logo. The store is surrounded by modern skyscrapers with neon accents, bathed in soft twilight.
+
+Dim ambient lighting illuminates the storefront, creating a warm and inviting atmosphere.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#15
+A high-quality image of a rugged, uneven rock, set against a soft beige monochrome background. A pre-made coffee cup, bearing the branding included in the image, rests slightly atop the rock, its lid slightly open. Soft shadows and diffused lighting enhance the texture of both the rock and the cup, creating a simple yet elegant aesthetic. Ultra-clear resolution, professional studio lighting, and realistic depth of field – 3:4 aspect ratio – raw.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#16
+A luxurious 3D rendering of the same logo, icon, or branding as the one pictured, in gold, is placed on a smooth, square, gold button with rounded edges. Below it, a smaller, rectangular button with a dark surface displays the glowing text ''PixelLab Pro +.'' The background is crafted from a sophisticated stone texture with fine cracks and an elegant frame, lending the entire composition a refined aesthetic. Subtle lighting highlights the metallic sheen and depth of the gold elements, creating a polished and elegant look.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#17
+A luxurious 3D rendering of the same logo, icon, or branding as the one pictured, in gold, is placed on a smooth, square, gold button with rounded edges. Below it, a smaller, rectangular button with a dark surface displays the glowing text ''-PixelLab Pro Plus.'' The background is crafted from a sophisticated stone texture with fine cracks and an elegant frame, lending the entire composition a refined aesthetic. Subtle lighting highlights the metallic sheen and depth of the gold elements, creating a polished and elegant look.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#18
+Create a sleek, highly realistic poster focusing on a single, authentic-looking object floating in mid-air as its primary action. The object should appear to melt and deform in a beautiful and subtle way, like plastic softening from heat, while simultaneously retaining the color and texture of the melting element. Use a dynamic, low-angle shot to emphasize its power and grandeur, illuminated with soft, dramatic cinematic lighting that highlights the intricate details of the melting process.
+
+The background should be a simple, light studio setting to ensure complete focus on the subject. Use a calm, sophisticated color palette with subtle two-tone accents, presented in a sharp, highly realistic photographic style that captures every texture and shimmering droplet in minute detail.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#19
+photo of a vacuum-sealed bag filled with L studio product photography, hyperreal textures, hard plastic reflections, soft studio lighting, central composition, high detail, shot with 50mm lens, eye-level shot, black background, contemporary and stylish composition, high contrast, deep blacks.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#20
+CREATE A PHOTOREALISTIC VERTICAL IMAGE SHOWING A CUSTOM ACRYLIC KEYCHAIN VERSION OF THE UPLOADED LOGO HANGING FROM THE ZIPPER OF A DARK-COLORED BACKPACK (E.G. BLACK OR GREY). THE LOGO MUST RETAIN ITS ORIGINAL SHAPE, COLOR, AND PROPORTIONS WITHOUT ANY ALTERATION. THE KEYCHAIN SHOULD HAVE A CLEAR OR GLOSSY ACRYLIC LAYER, CLIPPED WITH A SILVER RING. USE SOFT DAYLIGHT OR DIFFUSED LIGHTING TO AVOID YELLOW TONES. SET THE BACKGROUND IN A MODERN OUTDOOR SETTING, BUT KEEP IT BLURRED TO MAINTAIN FOCUS ON THE LOGO KEYCHAIN.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#21
+Ultra-realistic 3D render of the (LOGO), recreated as a leather patch stitched directly onto a white fabric surface. The patch perfectly follows the exact shape and proportions of the (LOGO) without distortion. The colors of the leather surface exactly match the official logo palette, rendered with a fine-grain leather texture, soft matte finish, and subtle natural creases. Surrounding the patch, there is precise stitching that follows the entire contour of the logo, blending seamlessly into the fabric. The hyper-detailed fabric background displays a hyper-detailed woven texture with visible fibers and soft, natural creases, emphasizing the stitched effect. Lighting is arranged to highlight both the leather texture and the stitching, with soft, natural shadows adding realistic depth. Shot in a premium product photography style. Clean, minimal composition with extreme detail and photorealism.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#22
+Create an image of a clear, vacuum-sealing plastic bag containing your carefully positioned 3D cargo. Capture the product in a premium style against a solid white background, with soft studio lighting and a subtle rim light for a fluid, cinematic look. The packaging should have the aesthetic of a concept art mockup. No text or labels.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#23
+creates the uploaded [LOGO] image made of reflective metallic material in a luxurious gold color. The surface features realistic folds and reflections that give it a soft, puffy appearance, similar to a sculpted metallic cushion. The logo is set against a clean white background, with a soft, diffused shadow adding depth and realism. The lighting is bright and natural, reflecting subtle details and creating a high-gloss effect. Ultra HD, hyper-realistic, high-detail rendering with a sleek, modern aesthetic.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#24
+3D rendering of the [LOGO] in reflective chrome metal, with a mirror-like surface and intense shine. Clean white background.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#25
+Create a hyper-realistic 3D [LOGO] image crafted from soft satin ribbon. The ribbon is elegantly folded and coiled to form the letter, with delicate curves and smooth, flowing lines. The satin texture is slightly shiny and reflective, with a luxurious sheen and subtle reflections. The ribbon color is a deep, rich, and vibrant red, and the background is plain white to enhance the softness and shine. High-resolution studio lighting, a minimalist and elegant composition with a sleek, decorative aesthetic.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#26
+3D rendering of the [LOGO] in reflective chrome metal, with a mirror-like surface and intense shine. Clean white background.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#27
+A soft, puffy 3D render of the Apple logo shaped like an inflatable toy.
+The surface is textile, matte, with realistic seams and folds. Positioned
+at 45-degree angle on bright white background.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#28
+A soft, three-dimensional, inflatable representation of the logo shown in the image. The surface is textured and matte, with realistic seams and folds. It is positioned at a 45-degree angle against a bright white background.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

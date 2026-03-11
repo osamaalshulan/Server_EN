@@ -1,0 +1,592 @@
+{
+  "quotes": [
+"↑￼↑ #1
+&#8220;A very realistic full-body cinematography of the same person, with the precise face and 
+hairstyle from the uploaded photo, perfectly designed. Sitting on a deep blue chair in the 
+shape of a cube, leaning slightly backwards with an open position, wearing bold blue-sized 
+streetwear: an organized trench coat, wide white pants, chunky sneakers, and a silver watch. 
+Solid blue background with professional neon light patterns forming triangles and crossed 
+lines on the floor. A face looking directly at the camera with a hidden confident expression. 
+Dramatic studio lighting that emphasizes textures and folds. A liberal atmosphere for the 
+Adidas campaign with the depth of the cinematic field and a strong drip aura.&#8221;Use 100% of 
+his face, your face should be just like the original selfie - without editing, retouching or 
+smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #2
+A very realistic full-body cinematic image of the user (Use 100% of his face, your face should 
+be just like the original selfie - without editing, retouching or smothening. Maintain all facial 
+features, skin texture and expressions )
+The user stands confidently in front of a black Arab horse, and holds the reins tightly with 
+both hands. His eyes are directly focused on the horse, and fully involved in its movement, 
+indicating intensity and connection.
+Outfit: Professional equestrian clothing - suitable black riding jacket, crisp white shirt, beige 
+judbur, long polished black riding shoes, black leather gloves, elegant black riding helmet 
+(cover style).
+Position: Strong and controlled attitude, inclined with horse rise, body language showing 
+harmony, power and complete control.
+Scene: Autumn forest trail with brown orange leaves falling around, a cinematic atmosphere.
+Lighting: A soft glow in the golden hour with the highlight of the man's face and horse 
+muscles.
+Mood: Strong, realistic and artistic - like the cover of a editorial equestrian magazine.
+Lens: 35 mm cinematic frame, shallow depth of field for sharp focus on humans and horse.
+-En 16:9 -v 6 -q 2 - Raw style
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #3
+Ultra-realistic cinematic full-body portrait of the user (Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching or smothening. Maintain all 
+facial features, skin texture and expressions ).
+The user is standing powerfully in front of a rearing black Arabian horse, holding the reins 
+firmly with both hands, fully interacting with the horse's dramatic movement.
+Outfit: professional equestrian attire &#8212; fitted black riding jacket, crisp white shirt, beige 
+jodhpurs, tall polished black riding boots, black leather gloves, and a sleek black riding 
+helmet (cap style).
+Pose: strong, confident stance, leaning slightly with the horse's rise, body language showing 
+full control and harmony with the horse.
+Scene: autumn forest path with golden-orange leaves, some leaves swirling in the air.
+Lighting: golden-hour cinematic glow, dramatic highlights on your face and the horse's 
+powerful muscles.
+Atmosphere: editorial, luxury equestrian magazine vibe &#8212; majestic, bold, and cinematic.
+Lens: 35mm wide cinematic frame to capture the fu full rearing horse and your powerful 
+stance.
+-ar 16:9 -v 6 -q 2 - style raw
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #4
+Ultra-realistic cinematic close-up portrait, using the uploaded face (Use 100% of his face, 
+your face should be just like the original selfie - without editing, retouching or smothening. 
+Maintain all facial features, skin texture and expressions ).
+The rider is on a black horse rearing up, captured in dramatic side perspective.
+Focus: the rider's face interacting with the horse's movement &#8212; eyes locked forward, 
+confident and powerful expression, showing intensity and pride.
+The rider is wearing a white shalwar kameez, a black and gold embroidered shawl, and a 
+stylish cap.
+Lighting: golden autumn sunlight highlighting facial details, with soft cinematic shadows on 
+the face.
+Background: blurred autumn trees in warm orange and brown, with falling leaves adding 
+depth.
+Mood: epic, intense, editorial, cinematic.
+Lens: 85mm portrait lens, shallow depth of field for dramatic focus.
+-ar 2:3 -v 6 -q 2 - style raw
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #5
+A stylish person riding a black horse on an autumnal path, with trees full of orange and 
+brown leaves on both sides. The person is wearing a white shalwar kameez with a black and 
+gold embroidered shawl draped over their shoulders.
+wearing dark sunglasses. The perspective is frontal, capturing the horse in mid-stride with 
+some leaves falling around. The lighting is natural and soft, emphasizing the warm autumn 
+colors and creating a slightly dramatic, editorial.Use 100% of his face, your face should be 
+just like the original selfie - without editing, retouching or smothening. Maintain all facial 
+features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #6
+A stylish person riding a black horse on an autumnal path, with trees full of orange and 
+brown leaves on both sides. The person is wearing a white shalwar kameez with a black and 
+gold embroidered shawl draped over their shoulders.
+The perspective is frontal, capturing the horse in mid-stride with some leaves falling around. 
+The lighting is natural and soft, emphasizing the warm autumn colors and creating a slightly 
+dramatic, editorial.Use 100% of his face, your face should be just like the original selfie - 
+without editing, retouching or smothening. Maintain all facial features, skin texture and 
+expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #7
+Ultra-realistic wide cinematic shot, using the uploaded face (keep all facial features 100% 
+identical, no changes).
+A stylish person riding a black horse on an autumnal forest path, trees full of orange and 
+brown leaves on both sides, with falling leaves captured in mid-air.
+The horse is in a rearing pose, raising its front legs dramatically in a powerful side profile.
+The rider is wearing a white shalwar kameez with a black and gold embroidered shawl draped 
+elegantly over the shoulders, plus a stylish cap.
+Facial expression: the rider's face shows strong interaction with the horse's movement &#8212; 
+eyes focused, slightly intense yet proud, perfectly synchronized with the majestic action of 
+the rearing horse.
+Lighting: natural golden autumn sunlight breaking through the trees, soft cinematic 
+shadows, enhancing the warm tones.
+Perspective: wide-angle to capture the full horse, the rider, and the surrounding autumn path 
+for a majestic editorial vibe.
+Atmosphere: dramatic, bold, luxurious, powerful.
+-ar 16:9 -v 6 -q 2 -style raw
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #8
+A dark movie/drama series (Noir). The person attached to the photo appears in the 
+character of 'Tommy Shelby' from the series 'Peaky Blinders'. The scene is dominated by two 
+sizes of the character; the first is huge and large at the top, wearing a flat hat and a formal 
+coat, with a sharp look, and the background is factories and a hazy industrial city. The 
+second size is smaller at the bottom, standing in a dry, dark field that burns slightly on the 
+horizon, looking ahead. The atmosphere is gloomy and dramatic, with low lighting (Low Key 
+Lighting) and earthy and dark gray colors. THE MAIN TEXT LINE IS 'PEAKY BLINDERS' IN 
+BOLD AND DRAMA, WITH DETAILS SUCH AS 'FINAL SERIES 27 FEB' AT THE BOTTOM. High-
+resolution cinematography (Cinematic, Highly detailed).Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching or smothening. Maintain all 
+facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #9
+&#8220;An intense and high-contrast action film sticker. The introduction shows the same person 
+attached to the photo (Use 100% of his face, your face should be just like the original selfie - 
+without editing, retouching or smothening. Maintain all facial features, skin texture and 
+expressions ), with a serious and determined look, wearing a light shirt with slightly open 
+buttons, and his facial features are clear. He points a tactical black gun towards the camera 
+at a slightly low angle, with his arm stretched out firmly. Some scratches or minor wounds 
+appear on his forearm.
+Behind him a little and to the right (from the viewer&#8217;s perspective), the same person attached 
+to the photo (Use 100% of his face, your face should be just like the original selfie - without 
+editing, retouching or smothening. Maintain all facial features, skin texture and expressions )
+appears, wearing a simple white shirt, shooting his gun or preparing to launch, and his gaze 
+focused in the direction where he directs his gun. Both seem to be in rapid and advanced 
+movement.
+The background is a deep and bright red glow, with shades of orange and bright red, creating 
+a sense of danger and drama. Light or foggy smoke effects appear to enhance the 
+atmosphere. The English text of the film&#8217;s title &#8220;奧薩&#12218;&#183;阿爾&#65292;沙蘭 &#8220; (Abboud Al-Mansoub) is 
+located at the top, written with a bold and elegant brush in turquoise blue or glowing white, 
+with slightly scattered paint effects.
+At the bottom right, details of the secondary text such as &#8220;2030/01/01&#8221; and some small 
+Chinese promotional phrases, written in clean and clear white font. The overall focus is on 
+the movement of the characters, their intense expressions, and the warm and dramatic 
+colors that dominate the scene.&#8221;
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #10
+&#8220;Intense and high-contrast motion film poster.&#8221; The introduction shows the same person 
+attached to the photo (use 100% of his face, your face should be exactly like the original 
+selfie - without editing, revising or measting. Maintain all facial features, skin texture and 
+expressions), with a serious and firm look, wearing a light shirt with slightly open buttons, 
+clear facial features. A tactical black gun points towards the camera at a slightly low angle, 
+with his arm firmly extended. Some scratches or minor wounds appear on his forearm.
+Slightly behind him and to the right (from the viewer&#8217;s point of view), the same person 
+attached to the photo (use 100% of his face, your face should be exactly like the original 
+selfie - without editing, retouching or unhappy. Maintaining all facial features, skin texture 
+and expressions) appears, wearing a simple white shirt, shooting his gun or preparing to fire, 
+and his gaze focused on the direction in which he directs his gun. Both seem to be in rapid 
+and forward movement.
+The background is a deep and bright red glow, with shades of orange and bright red, creating 
+a sense of danger and drama. Light or foggy smoke effects seem to enhance the 
+atmosphere.
+The general focus is on the movement of the characters, their intense expressions, and the 
+warm and dramatic colors that dominate the scene.&#8221
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #11
+&#8220;A very complex and detailed art poster, it brilliatly blends elements from the popular Grand 
+Theft Auto (GTA) video game series (mainly GTA V characters) with visual elements from the 
+Breaking Bad series, suggesting an upcoming version called &#8220;Grand Theft Auto VI&#8221; on the 
+PS5 (noting that it is a fan-made artwork and not officially).
+Here is a detailed description of the label:
+Main elements and faces:
+&#8226; Background: A panoramic view of a city inspired by Los Santos (Los Santos), a fictional city 
+in the GTA series, that looks like Los Angeles or Miami. Towering towers appear on the 
+horizon under the sky of sunset or evening twilight. The scene is surrounded by power lines 
+and palm trees on both sides of the main road.
+&#8226; CENTRAL LOGO: THE CENTER OF THE IMAGE IS DOMINATED BY A HUGE LOGO OF &#8220;GRAND 
+THEFT AUTO&#8221; WRITTEN IN BOLDE, TOPPED BY THE SYMBOL &#8220;VI&#8221; (ROMAN NUMBER 6)
+DESIGNED IN A LARGE AND BRIGHT TRIANGLE IN PURPLE AND YELLOW NEON COLORS, 
+WHICH GIVES A CLASSIC TOUCH FROM THE 1980S.
+&#8226; The three main characters (above): Three prominent faces stand for the same people 
+attached to the images above the logo, a combination of GTA V characters and Breaking Bad 
+characters:
+&#8226; On the left (clearest): Person No. 1 attached to the photos (Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching or smothening. Maintain all 
+facial features, skin texture and expressions) As the character of GTA V's Trevor Philips, with 
+a frown and cruel face, wearing an open red shirt.
+&#8226; In the middle: person number 2 attached to the photos (Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching or smothening. Maintain all 
+facial features, skin texture and expressions) as Walter White, also known as 'Heisenberg'
+from the Breaking Bad series, wearing red sunglasses, the famous Fedora hat with a light/
+white color, and a bright blue shirt, making him a visual focal point.
+&#8226; Right: Person No. 3 attached to the photos (Use 100% of his face, your face should be just 
+like the original selfie - without editing, retouching or smothening. Maintain all facial 
+features, skin texture and expressions (as Franklin Clinton) of GTA V, he wears a black baseball cap, green reflective sunglasses, and a hat on his head.
+Bottom items and details:
+&#8226; Classic Car: In the front of the photo, a dark classic muscle car (Muscle Car) drives on a 
+busy highway, an iconic element of the GTA.
+&#8226; Car characters: Inside the car, two characters can be seen in the front seats, which may be 
+a reference to other GTA or Breaking Bad characters such as Michael De Santa or Jesse 
+Pinkman, driving the car.
+&#8226; Additional details at the top: The 'R' (Rockstar Games)* logo appears in the upper-left 
+corner and the 'PS5' logo in the upper-right corner, as a reference to the publisher and the 
+playing platform.
+&#8226; DETAILS BELOW THE POSTER: THE PHRASE &#8220;ROCKSTAR GAMES PRESENTS&#8221; IS IN BOLD, 
+FOLLOWED BY A DETAILED LIST OF NAMES THAT LOOK LIKE THE NAMES OF A FILM/
+SINGING PRODUCTION CREW (E.G. PRODUCERS, DIRECTORS, SONGWRITER, ETC.) IN 
+SMALL LETTERS, WHICH INCREASES THE FEELING OF THE MOVIE POSTER.
+&#8226; Bottom logo: At the bottom right, the words &#8220;COMING SOON&#8221; appears (soon) under a 
+banner called &#8220;Plan B&#8221; and promotional messages.
+General Technical Style:
+The poster features a digital art style that combines hand-drawn realism and colorful 
+illustrations, similar to the art of illustrations that characterizes the covers and promotional 
+posters of the Grand Theft Auto series. The colors are bright and dramatic, with strong 
+lighting from the bottom that aggravates the features of the characters.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #12
+A high-quality, professional and dramatic film poster for an action film.
+Main topic:
+&#8226; A picture of the same person attached to the photo. Use 100% of his face, your face should 
+be just like the original selfie - without editing, retouching or smothening. Maintain all facial 
+features, skin texture and expressions
+&#8226; [The subject]'s face should be heavily shaded and look determined, angry, or focused.
+&#8226; He has clear blood or dirt and dirt on his face, especially around the bridge of his nose and 
+cheeks, indicating that he was in a fight.
+&#8226; He wears dark clothes, maybe a jacket or coat, with a slightly visible collar.
+&#8226; The lighting is harsh and exciting, highlighting the texture of his skin and gloom expression.
+Background and environment:
+&#8226; The background is immersed in a fiery atmosphere full of smoke and explosive.
+&#8226; Vibrant orange and yellow flames should dominate the upper and side parts of the label.
+&#8226; Dark smoke, thick or ash should mix with the man's hair and clothes, creating a sense of 
+chaos and destruction.
+&#8226; There must be small and glowing embers or sparks flying in the air around the subject, 
+which increases the preparation of intense and chaotic work.
+Color Palette:
+&#8226; Dominant and high-contrast palette of deep orange, fiery, bright yellow, dark red and deep 
+black/brown.
+&#8226; The general tone should be dark, rough and intense.
+Printing/design elements (added via design software): Style/Aesthetics:
+&#8226; Cinematic, bold, intense, and high impact.
+&#8226; The style should evoke a sense of modern excitement, revenge plot, or wartime drama.
+&#8226; High level of detail and realism
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #13
+CREATE A CINEMATIC, FASHION-EDITORIAL PORTRAIT OF THE PERSON FROM THE INPUT 
+PHOTO, PROCESSED IN A MONOCHROMATIC DUOTONE TREATMENT WHERE THE SKIN, 
+CLOTHING, AND BACKGROUND ARE HEAVILY STYLIZED USING FLAT OPPOSING COLOR 
+TONES. THE SUBJECT'S ENTIRE FORM (SKIN, HAIR, OUTFIT) SHOULD BE TINTED IN A DEEP 
+GREEN -TEAL TONE (APPROX. 009688), WHILE THE BACKGROUND IS RENDERED IN A FLAT, 
+VIBRANT ORANGE (APPROX. #FF6F00).
+CREATING A BOLD, EYE-CATCHING COLOR-BLOCK EFFECT. THE SUBJECT IS FRAMED IN A 
+TIGHT HEAD-AND-SHOULDERS CROP, FACING FORWARD WITH A SYMMETRICAL, 
+EDITORIAL POSE AND NEUTRAL, CONFIDENT FACIAL EXPRESSION. THEY WEAR A RIBBED 
+TURTLENECK SWEATER, RENDERED IN THE SAME COLOR TONE AS THE REST OF THE BODY 
+FOR VISUAL UNITY.
+ACCESSORIES INCLUDE ROUND, HIGH-FASHION SUNGLASSES THAT REFLECT THE ORANGE 
+BACKGROUND, WITH A PERFECTLY SMOOTH MIRRORED SURFACE AND NO VISIBLE EYE 
+DETAIL - ENHANCING THE GRAPHIC AESTHETIC AND MYSTERY. LIGHTING IS UNIFORM, 
+SOFT, AND FRONT-FACING, MINIMIZING SHADOWS AND EMPHASIZING SURFACE COLOR 
+RATHER THAN FACIAL DETAIL.
+USE A 50MM-85MM LENS SIMULATION AT F/5.6 FOR SHARP, POSTER-READY CLARITY WITH 
+MINIMAL DEPTH BLUR. THE OVERALL IMAGE MUST FEEL ULTRA-CLEAN, POSTERIZED, AND 
+DIGITALLY POLISHED, RESEMBLING A LUXURY FASHION CAMPAIGN OR POP ART EDITORIAL 
+COVER. TEXTURES SHOULD BE SUBTLE AND MINIMAL - E.G., SOFT FABRIC FOLDS, FINE 
+HAIR DEFINITION - WHILE SURFACE SMOOTHNESS AND MATTE FINISH ARE EMPHASIZED. 
+AVOID SKIN PORES OR NATURAL TONES. THE FINAL OUTPUT EVOKES COLOR THEORY 
+MASTERY, BOLD GRAPHIC DESIGN, AND EDITORIAL INTENSITY, SUITABLE FOR BILLBOARD 
+FASHION, RECORD COVERS, OR CONCEPTUAL PORTRAITS.Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching or smothening. Maintain all 
+facial features, skin texture and expressions.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #14
+Generate a cinematic, fashion-inspired 3D bust portrait of the person from the input photo, 
+sculpted in a stylized ZBrush-like aesthetic with smooth, matte surfaces and exaggerated 
+proportions. The figure should be rendered in monochromatic material (e.g. clay gray, warm 
+neutral, or slate), without texture or color - focusing on sculptural shape, form, and 
+silhouette.
+Facia
+proportions may be slightly caricatured or heroic, emphasizing jawline, brow, and lips in a 
+graphic manner. Pose the subject in a mid-close-up bust view (from chest upward), angled 
+slightly off-center to capture volume. The subject wears a casual fashion garment - such as a 
+hoodie, structured jacket, or turtleneck - modeled with realistic folds and seam details. Add 
+accessories like a beanie, or collar tension strings, stylized in the same solid matte material. 
+Lighting should be studio-style 3-point setup, creating soft shadows and clean surface 
+gradients to highlight geometry - use cool neutral lighting (approx. 6000K) with no harsh 
+speculars. The background is a solid light neutral tone (e.g. #DADADA to #EESE), providing 
+contrast without distraction. Camera simulation: 85mm lens equivalent at f/4.5 for subtle 
+compression and sculptural clarity. Emphasize silhouette flow, facial rhythm, and a strong 
+line of action in the neck-head transition. The final output should feel like a character design 
+bust render, suitable for editorial stylization, 3D concept development, or animated identity 
+work. The overall mood is confident, minimalist, and digitally iconic, evoking the style of 
+high-end sculpt drafts for animated films or AAA games.Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching or smothening. Maintain all 
+facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #15
+GENERATE A STYLIZED, SEMI-CARTOON 3D CHARACTER PORTRAIT OF THE PERSON FROM 
+THE INPUT PHOTO, RENDERED IN SMOOTH PLASTIC-LIKE MATERIAL WITH SOFT SURFACE 
+GRADIENTS AND ROUNDED GEOMETRY. THE SUBJECT IS SEATED DIRECTLY BEHIND AN 
+OPEN LAPTOP, VISIBLE FROM MID-TORSO UPWARD, WITH THE SCREEN CASTING A COLD 
+WHITE GLOW UPWARD ONTO THE FACE AND HOODIE. THE SUBJECT WEARS CASUAL 
+TECHWEAR (E.G. HOODIE AND GLASSES), WITH OVERSIZED ROUND OR SQUARE GLASSES. 
+VISIBLE ACROSS THE LENSES. THE CHARACTER'S FACIAL EXPRESSION SHOULD BE 
+FOCUSED, IMMERSED, OR SLIGHTLY INTENSE, EYES LOCKED ON THE SCREEN OR BARELY 
+VISIBLE THROUGH STYLIZED REFLECTIONS.
+LIGHTING IS DRAMATIC AND MINIMAL: PRIMARY COOL SCREEN-LIGHT GLOW FROM BELOW 
+AND ACCENT PURPLE OR BLUE RIM LIGHT ON HOODIE EDGES. THE BACKGROUND IS A 
+DEEP MATTE BLACK OR DESATURATED NAVY (APPROX. #0B0E14 &#8594; #1A1C24), ENHANCING 
+SUBJECT CONTRAST AND ISOLATING THE DIGITAL ENVIRONMENT. ADD SUBTLE LIGHT 
+BLOOM AND SPECULAR HIGHLIGHTS ON THE FACE, HANDS, AND GLASSES. THE LAPTOP 
+SHELL MAY CONTAIN STYLIZED DIGITAL STICKERS OR BRANDING ICONS FOR REALISM AND 
+PERSONALITY. SIMULATE A MEDIUM TELEPHOTO CAMERA ANGLE (AROUND 50MM) WITH 
+MEDIUM DEPTH OF FIELD, KEEPING THE ENTIRE UPPER BODY AND SCREEN CRISP. THE 
+FINAL AESTHETIC IS DARK-MODE DIGITAL, CREATOR-CORE, AND EDITORIALLY STYLIZED, 
+EVOKING CREATIVE FOCUS, CODING ENERGY, AND GEN Z TECH IDENTITY.Use 100% of his 
+face, your face should be just like the original selfie - without editing, retouching or 
+smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #16
+GENERATE A STYLIZED, SEMI-CARTOON 3D CHARACTER PORTRAIT OF THE PERSON FROM 
+THE INPUT PHOTO, RENDERED IN SMOOTH PLASTIC-LIKE MATERIAL WITH SOFT SURFACE 
+GRADIENTS AND ROUNDED GEOMETRY. THE SUBJECT IS SEATED DIRECTLY BEHIND AN 
+OPEN LAPTOP, VISIBLE FROM MID-TORSO UPWARD, WITH THE SCREEN CASTING A COLD 
+WHITE GLOW UPWARD ONTO THE FACE AND HOODIE. THE SUBJECT WEARS CASUAL 
+TECHWEAR (E.G. HOODIE AND Without GLASSES), WITHOVERSIZED ROUND OR SQUARE 
+Without GLASSES. VISIBLE ACROSS THE LENSES. THE CHARACTER'S FACIAL EXPRESSION 
+SHOULD BE FOCUSED, IMMERSED, OR SLIGHTLY INTENSE, EYES LOCKED ON THE SCREEN 
+OR BARELY VISIBLE THROUGH STYLIZED REFLECTIONS.
+LIGHTING IS DRAMATIC AND MINIMAL: PRIMARY COOL SCREEN-LIGHT GLOW FROM BELOW 
+AND ACCENT PURPLE OR BLUE RIM LIGHT ON HOODIE EDGES. THE BACKGROUND IS A 
+DEEP MATTE BLACK OR DESATURATED NAVY (APPROX. #0B0E14 &#8594; #1A1C24), ENHANCING 
+SUBJECT CONTRAST AND ISOLATING THE DIGITAL ENVIRONMENT. ADD SUBTLE LIGHT 
+BLOOM AND SPECULAR HIGHLIGHTS ON THE FACE, HANDS, AND GLASSES. THE LAPTOP 
+SHELL MAY CONTAIN STYLIZED DIGITAL STICKERS OR BRANDING ICONS FOR REALISM AND 
+PERSONALITY. SIMULATE A MEDIUM TELEPHOTO CAMERA ANGLE (AROUND 50MM) WITH 
+MEDIUM DEPTH OF FIELD, KEEPING THE ENTIRE UPPER BODY AND SCREEN CRISP. THE 
+FINAL AESTHETIC IS DARK-MODE DIGITAL, CREATOR-CORE, AND EDITORIALLY STYLIZED, 
+EVOKING CREATIVE FOCUS, CODING ENERGY, AND GEN Z TECH IDENTITY.Use 100% of his 
+face, your face should be just like the original selfie - without editing, retouching or 
+smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #17
+GENERATE A CLEAN, HIGH-RESOLUTION 3D CHARACTER PORTRAIT OF A NEW PERSON 
+FROM THEIR PHOTO, FULLY RENDERED IN A STYLIZED, ANIMATED AESTHETIC SIMILAR TO 
+PIXAR OR DREAMWORKS STYLE. THE SUBJECT SHOULD APPEAR CHEERFUL AND 
+APPROACHABLE, WITH EXAGGERATED PROPORTIONS - LARGE HEAD, ROUNDED FACIAL 
+FEATURES, SMALL NOSE AND EARS, SMOOTH SKIN, AND MINIMAL MICRO-DETAILING. 
+FRAMING SHOULD BE CENTERED HEAD-AND-SHOULDERS (BUST-LEVEL). WITH THE 
+CHARACTER FACING FORWARD AND SMILING GENTLY OR WITH EYES CLOSED IN A 
+FRIENDLY, RELAXED EXPRESSION THE CHARACTER WEARS A SIMPLE CREW-NECK SHIRT 
+OR SWEATER, MODELED WITH CLEAN FABRIC SHADING AND SOFT FOLDS, FREE OF LOGOS 
+OR PATTERNS. LIGHTING SETUP IS ULTRA-SOFT AND EVENLY DIFFUSED, REPLICATING A 
+BRIGHT DAYLIGHT STUDIO ENVIRONMENT. USE HIGH-KEY LIGHTING WITH NO HARD 
+SHADOWS, SIMULATING A FULL WHITE BACKGROUND (APPROX.
+#FFFFFF). SKIN TONES SHOULD BE SOFT PEACH OR PASTEL, WITH BLUSH ACCENTS ON 
+CHEEKS, NOSE, AND EARS FOR WARMTH.
+HAIR IS STYLIZED INTO SMOOTH, SLIGHTLY VOLUMIZED CLUMPS WITH CLEAN SCULPTED 
+GEOMETRY AND SOFT REFLECTANCE.
+AVOID REALISM OR PHOTO-TEXTURING: PRIORITIZE SMOOTH PLASTICINE OR CLAY-LIKE 
+SURFACES, CARTOON-STYLE SHADERS, AND EXPRESSIVE COLOR BLOCKING. FINAL 
+RENDER SHOULD SIMULATE WIDE-APERTURE LENS EFFECT (~85MM, F/2.8) FOR A SLIGHT 
+DEPTH OF FIELD BUT MAINTAIN FOCUS ACROSS THE FACE. MOOD IS LIGHT, OPTIMISTIC, 
+AND CHILDLIKE - THE FINAL IMAGE SHOULD FEEL LIKE A HERO RENDER OF AN ANIMATED 
+MOVIE CHARACTER, IDEAL FOR STORYTELLING, AVATAR BRANDING, OR JOYFUL VISUAL 
+IDENTITY WORK. 
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #18✓
+Generate a hyperrealistic 3D-rendered head-and-shoulders portrait of the person from the 
+input photo in a modern claymorphism+ photorealism fusion style. The character is front-
+facing, looking directly at the viewer, with a natural, confident expression tailored to the 
+subject's original demeanor (e.g., soft smile, focused gaze, smirk, or relaxed posture). All 
+facial anatomy, skin tone, hair texture, and gendered features are faithfully preserved and 
+stylized based on the source image, while gently enhanced for 3D realism. Skin is rendered 
+with visible microdetails: fine pores, light skin translucency (SSS), soft gloss on lips, and 
+natural highlight reflections on the forehead, nose, and cheekbones. Hair is stylized and 
+physically accurate with separated strands and soft shadows; it follows the original length, 
+style, and color from the reference photo, enhanced with subtle lighting variation and 
+volume. The claymorphism style is applied through softened facial planes, slightly rounded 
+transitions, and a clean, polished look without losing anatomical accuracy. The background is 
+plain off-white to white, and lighting is neutral and diffused (5600-5800K), with a soft rim 
+light separating the silhouette. No harsh shadows or grain.
+Clothing is cropped at the collar or neck area - only the face, hair, neck, and optional minimal 
+accessories (e.g., earrings or choker from photo) are included. Render is cinematic in quality: 
+85mm lens emulation, f/2.8, shallow depth of field, 4K output resolution, high sampling. The 
+image retains full identity and realism of the source face, while presenting it as a high-end
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #19✓
+CREATE A 3D ILLUSTRATION OF AN ANIMATED CHARACTHER SITTING RELAXED ON TOP OF 
+THE SOCIAL MEDIA LOGO
+''WHATSAPP''. CHARACTERS SHOULD WEAR MODERN CASUAL CLOSTHING - AND LOOK 
+LIKE THE PERSON FROM REFERENCE PHOTO, THE BACKGROUND OF THE IMAGE IS A 
+SOCIAL MEDIA PROFILE PAGE WITH THE USERNAME 'OSAMAALSHULAN' AND A 
+CORRESPONDING PROFILE PICTURE.Use 100% of his face, your face should be just like the 
+original selfie - without editing, retouching or smothening. Maintain all facial features, skin 
+texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #20✓
+CREATE A 3D ILLUSTRATION OF AN ANIMATED CHARACTHER SITTING RELAXED ON TOP OF 
+THE SOCIAL MEDIA LOGO
+''TIKTOK''. CHARACTERS SHOULD WEAR MODERN CASUAL CLOSTHING - AND LOOK LIKE 
+THE PERSON FROM REFERENCE PHOTO, THE BACKGROUND OF THE IMAGE IS A SOCIAL 
+MEDIA PROFILE PAGE WITH THE USERNAME @qqyy.y AND A CORRESPONDING PROFILE 
+PICTURE.Use 100% of his face, your face should be just like the original selfie - without 
+editing, retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #21
+Person WITH DARK HAIR(MAINTAIN EXACT FACE AND SKIN TONE WITH SHARP FEATURES)
+WEARING A BLACK HOODIE SITS IN A RUSTIC WOODEN BOOTH, STARING INTENSELY AT 
+THE CAMERA WITH ONE HAND SUPPORTING HIS CHIN AND THE OTHER REACHING 
+FORWARD AS IF PERFORMING TELEKINESIS.
+DOZENS OF PLAYING CARDS FLY AROUND HIM IN MID-AIR, CAPTURED N DYNAMIC SLOW-
+MOTION WITH MOTION BLUR.
+THE BACKGROUND SHOWS VERTICAL WOODEN PANELS AND A FRAMED PHOTO OF A MAN 
+PLAYING CARDS.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #22
+A SURREAL HYPER-REALISTIC SCULPTURE OFFor the same person attached to the picture 
+(THE PHOTO GIVEN) HEAD AND UPPER SHOULDERS EMERGING FROM A WHITE WALL, HER 
+FACE SERENE AND EYES CLOSED. HER SKIN APPEARS CRACKED LIKE DRY VOLCANIC 
+EARTH, WITH GLOWING RED-HOT LAVA FLOWING THROUGH THE FISSURES FROM HER 
+FOREHEAD DOWN TO HER CHEST. THE TEXTURE RESEMBLES COOLING LAVA STONE WITH 
+ASH-BLACK EDGES AND DEEP GLOWING MAGMA VEINS.
+HIGHLY DETAILED 3D RENDER WITH REALISTIC SKIN TEXTURE, SOFT SHADOWS, AND 
+DRAMATIC LIGHTING.
+THE EXPRESSION IS PEACEFUL, CONTRASTING WITH THE INTENSE, FIERY CRACKS. ART 
+STYLE: DIGITAL SCULPTURE, PHOTO-REALISM, FANTASY ART.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #23
+Create a giant hyper-realistic statue based on the given photo, keeping the orig inal face 
+exactly the same without changes. The statue stands tall in the middle of a roundabout in 
+Dhaka, near a famous historical landmark. The statue is still under construction, surrounded 
+by scaffolding, with many construction workers in yellow helmets and orange vests climbing, 
+welding, and working on it.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #24
+TRANSFORM THE PROVIDED IMAGE
+INTO A CINEMATIC, HIGH
+STUDIO-STYLE PORTRAIT.OBJECTIVE: TO CREATE A PROFESSIONAL STUDIO 
+ENVIRONMENT WITH A SMOOTH ORANGE AND BLACK GRADIENT
+BACKDROP, EMPHASIZING DEPTH AND CONTRAST.KEY ELEMENTS: *
+BACKDROP: SMOOTH ORANGE TO RICH BLACK GRADIENT.* BACKLIGHT:
+SUBTLE WARM ORANGE GLOW BEHIND THE SUBJECT, GRADUALLY FADING INTO BLACK.* 
+KEY LIGHTING: NATURAL DAYLIGHT-STYLE WHITE KEY LIGHT ON THE FACE, ENHANCING 
+CONTOURS.*
+CAMERA/LENS
+SIMULATION: ALPHA AR III WITH A 35MM HELIOS LENS, PRODUCING A CREAMY, SHALLOW 
+DEPTH OF FIELD.STRICT CONSTRAINTS:* ALTERATION TO SUBJECT: THE SUBJECT'S FACE, 
+HAIR, SKIN TEXTURE, EYES, NOSE, LIPS, AND GLASSES MUST REMAIN ENTIRELY 
+UNTOUCHED.* PRESERVATION OF IDENTITY AND REALISM: THE SUBJECT'S IDENTITY AND 
+REALISM MUST BE PRESERVED COMPLETELY.*
+FOCUS: THE
+TRANSFORMATION SHOULD FOCUS ONLY ON LIGHTING AND BACKDROP.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #25
+A high-resolution stylized portrait of the person from the input photo, framed from the chest 
+up in a side-facing composition with a calm, focused expression. The subject wears a matte 
+black turtleneck and bold, metallic-rimmed circular sunglasses with opaque, mirror-like 
+lenses that catch and reflect ambient light, creating a sharp gleam across the surface. All 
+facial features, hairstyle, and skin tone are replicated with precise accuracy. The lighting 
+setup combines soft cyan-blue ambient illumination across the face and shoulders with 
+subtle warm highlights on the skin and accessories, producing a crisp, editorial contrast. The 
+background is a solid, uninterrupted bright cyan (#00B8F0), with no distractions 
+-emphasizing the silhouette and reflective surfaces. The portrait is shot in the style of a 
+Leica 90mm f/2.2 lens simulation with shallow depth of field, resulting in soft boke and ultra-
+sharp facial rendering. The image features editorial, modern, high-detail, cinematic 
+composition, ultra-realistic textures, and a professional fashion photography aesthetic, 
+evoking the calm clarity of high-tech minimalism and magazine-grade visual polish.Use 
+100% of his face, your face should be just like the original selfie - without editing, retouching 
+or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #26
+Wide-angle GoPro-style shot from a high, symmetrical bird's-eye perspective. [Reference 
+person from the photo] stands in black sunglasses and a sleek black suit, looking casually 
+into the camera while holding his face with his index finger and thumb in a confident gesture.
+Around him, glamorous supermodels and enthusiastic fans reach out, touching his arms and 
+shoulders, enhancing his magnetic presence. Below the frame, P paparazzi flashes and 
+crowded j journalists with cameras create a chaotic yet dramatic atmosphere.
+The ultra-wide GoPro lens exaggerates erspective, making the scene feel immersive, 
+dynamic, and larger-than-life - like a raw, energetic capture from the middleS celebrity 
+madness.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #27
+Wide-angle GoPro-style shot from a high, symmetrical bird's-eye perspective. [Reference 
+person from the photo] stands in a sleek black suit, looking casually into the camera while 
+holding his face with his index finger and thumb in a confident gesture.
+Around him, glamorous supermodels and enthusiastic fans reach out, touching his arms and 
+shoulders, enhancing his magnetic presence. Below the frame, P paparazzi flashes and 
+crowded j journalists with cameras create a chaotic yet dramatic atmosphere.
+The ultra-wide GoPro lens exaggerates erspective, making the scene feel immersive, 
+dynamic, and larger-than-life - like a raw, energetic capture from the middleS celebrity 
+madness.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #28✓
+A hyper-realistic cinematic scene featuring the uploaded person 1,338 carefully painting his 
+own figurine at a desk and make direct eye contact with camera.
+The figurine is standing on a transparent acrylic display base, but its size is larger than usual, 
+making it appear more prominent and almost half the height of the real person. Both the 
+person and the figurine wear the exact same outfit, matching in details. Around the desk, 
+realistic painting tools, brushes, and hobby items are scattered, creating a creative workshop 
+atmosphere. The figurine must look ultra-realistic with lifelike human skin tone, natural facial 
+details, and premium PVC texture. Realistic indoor background, cinematic studio lighting, 
+and sharp details. Post Size, Ratio & Specs The recommended Instagram story size is 1080 
+pixels wide by 1920 pixels tall.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #29
+A HYPER-REALISTIC DIGITAL PORTRAIT OF ME WEARING GLOWING NEON YELLOW 
+GLASSES, WITH GOLDEN MATHEMATICAL FORMULAS PROJECTED ACROSS MY FACE AND 
+JACKET. I'M DRESSED IN A BRIGHT YELLOW PUFFER JACKET, SURROUNDED BY A 
+FUTURISTIC BLUE BOKE BACKGROUND. THE LIGHTING IS CINEMATIC, WITH A SOFT GLOW 
+REFLECTING IN MY EYES, BLENDING A SCIENCE-MEETS-STYLE VIBE. THE OVERALL LOOK 
+GIVES A SMART TECH.
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

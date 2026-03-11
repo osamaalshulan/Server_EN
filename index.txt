@@ -1,4 +1,4 @@
-OFF
+ON
 0.تلبيس_العرسان.txt
 01.برومبتات_Gemini_V1.txt
 01.برومبتات_Gemini_V2.txt

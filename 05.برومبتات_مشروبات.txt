@@ -1,0 +1,79 @@
+{
+  "quotes": [
+"#1
+A cinematic image of a glass bearing the words ''PixelLab Pro+''. The glass is surrounded by vibrant droplets of clear lemon juice, floating crystal ice cubes, and fresh, juicy lemons that move about. Tiny water droplets trickle from the glass's surface, which is covered with a realistic layer of condensation, while studio lighting adds shimmering touches and subtle reflections that highlight the company's identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#2
+''Hyper-realistic 4K product photo of a Pepsi bottle, logo crystal-clear, suspended mid-air at a dramatic 45-60° tilt, as if caught in motion. The bottle is ice-cold, its surface covered in dense condensation: micro-droplets 0.1-1.5 mm, natural streaks running downward, bright specular highlights, subtle lacquer texture and fine micro-scratches on the glass. From the bottom of the frame, razor-sharp crystalline ice shards explode upward in a frozen storm, suspended mid-air. Each shard is hyper-detailed: semi-transparent edges, frosted crystalline cores, micro-cracks and refractive facets. Some shards refract and distort the tilted Pepsi bottle realistically, bending its shape through ice prisms. Small icy fragments and particles scatter through the air, frozen mid-motion. Behind the scene, blurred in fog, the vague silhouette of a massive glacier wall looms, obscured by drifting haze and volumetric smoke, adding depth without stealing focus. Cinematic close-up composition, vertical 3:4. Bottle angled across the frame for dynamic tension, negative space left at bottom for the upward storm effect. 100mm macro lens, f/8, sharp focus locked on Pepsi logo, condensation droplets, and nearest ice shard textures. Background falls smoothly into bokeh. Lighting: cold high-contrast dual rim setup. Left side: intense icy blue backlight (~7000 K), making shards sparkle and defining bottle edges. Right side: crisp white rim kicker accentuating condensation and contours. Subtle frontal fill (5-8%) ensures logo readability. Atmosphere: volumetric haze and fine drifting ice-dust particles catch rim lights, producing cinematic beams. Occasional frozen mist trails drift around shards. No floor, no surface, only storm-like suspended shards in mid-air. Color & finish: saturated cold palette, Pepsi blue vivid and luminous against the white-blue ice. High-frequency micro-details preserved in glass, droplets, shards, and haze. Natural specular roll-off, no CGI look. Ultra-realistic cinematic 4K vertical (3072x4096) product photography with dramatic tilt.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#3
+''A hyper-realistic 4K product image of a soda bottle (branded as shown), its logo crystal clear, suspended in mid-air at a 45-60 degree angle, seemingly in motion. The bottle is ice-cold, its surface covered in dense condensation: microscopic droplets 0.1-1.5 mm in diameter, natural lines running downwards, bright glossy highlights, a thin glaze texture, and minute scratches on the glass. From below the frame, razor-sharp, crystalline ice shards explode upwards in a frosty storm, suspended in mid-air. Each shard is highly detailed: semi-transparent edges, frozen crystalline nuclei, micro-cracks, and refracted sides. Some shards break and distort the realistically tilted Pepsi bottle, warping its shape across icy saws. Tiny shards and ice particles scatter in the air, frozen in mid-motion. Behind the scene, shrouded in mist, the enigmatic silhouette of a colossal planet looms... Glacial walls loom, draped in drifting fog and towering smoke, adding depth without losing focus. A close-up cinematic composition, 3:4 aspect ratio. A bottle curved against the frame creates dynamic tension, while a negative space at the bottom evokes the effect of a rising storm. A 100mm f/8 macro lens, sharp focus fixed on the Pepsi logo, condensation droplets, and the closest texture to ice fragments. The background blends seamlessly with the bokeh effect. Lighting: A high-contrast, cool double frame. Left side: A powerful icy blue backlight (~7000K) highlights the fragments and defines the bottle's edges. Right side: A crisp white rim emphasizes the condensation and surrounding lines. Light front filler (5-8%) ensures the logo remains legible. The overall atmosphere: A towering fog and fine particles of drifting ice dust capture the rim lights, producing cinematic beams. Traces of frozen mist occasionally scatter around the shards. No ground, no surface, just shards suspended like a storm. In the air. Color and finish: A cool, saturated palette, a bright, vibrant Pepsi blue against a bluish-white ice background. High-frequency fine details are preserved in the glass, water droplets, shards, and mist. Natural reflection, no CGI effect. Ultra-realistic 4K (3072 x 4096) vertical cinematography of the products with stunning tilt.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#4
+''A hyper-realistic 4K product image of a water bottle (bearing the brand shown in the image), its logo crystal clear, suspended in mid-air at a 45-60 degree angle, seemingly in motion. The bottle is ice-cold, its surface covered in dense condensation: microscopic droplets 0.1-1.5 mm in diameter, natural lines running downwards, bright glossy highlights, a thin glaze texture, and minute scratches on the glass. From beneath the frame, razor-sharp, crystalline ice fragments explode upwards in a frosty storm, suspended in mid-air. Each fragment is highly detailed: semi-transparent edges, frozen crystalline nuclei, micro-cracks, and refracted sides. Some fragments break and distort the realistically tilted Pepsi bottle, warping its shape across icy saws. Tiny shards and ice particles scatter in the air, frozen in mid-air. Behind the scene, shrouded in mist, the enigmatic silhouette of a colossal planet looms... Glacial walls loom, draped in drifting fog and towering smoke, adding depth without losing focus. A close-up cinematic composition, 3:4 aspect ratio. A bottle curved against the frame creates dynamic tension, while a negative space at the bottom evokes the effect of a rising storm. A 100mm f/8 macro lens, sharp focus fixed on the Pepsi logo, condensation droplets, and the closest texture to ice fragments. The background blends seamlessly with the bokeh effect. Lighting: A high-contrast, cool double frame. Left side: A powerful icy blue backlight (~7000K) highlights the fragments and defines the bottle's edges. Right side: A crisp white rim emphasizes the condensation and surrounding lines. Light front filler (5-8%) ensures the logo remains legible. The overall atmosphere: A towering fog and fine particles of drifting ice dust capture the rim lights, producing cinematic beams. Traces of frozen mist occasionally scatter around the shards. No ground, no surface, just shards suspended like a storm. In the air. Color and finish: A cool, saturated palette, a bright, vibrant Pepsi blue against a bluish-white ice background. High-frequency fine details are preserved in the glass, water droplets, shards, and mist. Natural reflection, no CGI effect. Ultra-realistic 4K (3072 x 4096) vertical cinematography of the products with stunning tilt.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#5
+''A cup of iced coffee with whipped cream, bearing the tag ''Trademark attached to the picture,'' slides off an ice cliff, scattering ice fragments, under a clear blue sky with floating ice pellets, labeled ''PixelLab Pro+'' at the bottom.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#6
+''An electrifying commercial-style digital illustration of a metallic energy drink can in motion, dramatically split into levitating sections. From within, vivid neon-green currents of electricity and liquid bursts explode outward, scattering glowing droplets and mist. The surface of the can glistens with cold condensation, reflecting light for a glossy, high-tech effect. Surrounding the can are dynamic spark particles, fizzing bubbles, and a radiant aura of power.
+The backdrop transitions through rich emerald tones with subtle gradients, creating an atmosphere of intensity, energy, and unstoppable refreshment.
+Rendered in ultra-realistic detail, high resolution, with bold visual impact for modern advertising.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#7
+''A striking, commercial-style digital illustration of a moving metal energy drink can bearing the ''Brand Image Attached'' logo, dramatically divided into floating sections. Inside, electrical currents and bursts of vibrant neon-green liquid erupt, scattering glowing droplets and mist. The can's surface shimmers with a cool condensation, reflecting light for a high-tech, glossy effect. Dynamic spark particles, effervescent bubbles, and a radiant aura of power surround the can.
+
+The background transitions through rich emerald hues with subtle gradients, creating an atmosphere of irresistible power, energy, and invigoration.
+
+Presented with highly realistic detail and high resolution, this visually striking image is perfect for modern advertising.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#8
+''A massive ice-covered mountain peak under a clear cold sky with thick drifting clouds and a frosty breeze. Hovering at a 45° angle above the summit, a metallic soda can releases a stream of bright green soda that cascades down the icy cliffs like a glowing waterfall. The liquid flows into the valley below, forming a shimmering river of soda surrounded by mist. Giant sparkling bubbles rise where the soda splashes against the mountain surface. Rendered in cinematic 3D, ultra-realistic lighting, detailed textures of ice, fog, and liquid reflections''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#9
+''A massive, snow-covered mountain peak sits beneath a clear, cold sky, with thick, shifting clouds and a cool breeze. A metal soda can bearing the brand name shown in the image hovers at a 45-degree angle above the summit, releasing a stream of bright green soda that cascades down the icy slopes like a glowing waterfall. The liquid flows into the valley below, forming a shimmering river of soda shrouded in mist. Giant, glittering bubbles rise as the soda splatters across the mountain's surface. Presented with cinematic 3D technology, ultra-realistic lighting, and intricate details of ice, mist, and liquid reflections.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#10
+''A shiny red Coca-Cola can standing on top of a mountain peak, realistic style, sunlight reflecting off the can. Cold refreshing Coca-Cola pouring out of the can, flowing down the rocks and turning into a sparkling river of Coke below. The scene is majestic, high detail, photorealistic, wide angle view,
+cinematic lighting''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#11
+''A glossy red soda can, bearing the brand name shown in the image, sits atop a mountain, its surface realistically reflecting the sunlight. Cool, refreshing soda flows from the can, cascading down the rocks and transforming into a shimmering river of fizzy drink below. A majestic, highly detailed, and realistic scene, presented with a wide field of view and cinematic lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

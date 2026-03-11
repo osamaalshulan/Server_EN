@@ -1,0 +1,805 @@
+{
+  "quotes": [
+"↑￼↑ #1
+Create a highly realistic monochrome graphite-style image, a low-angle close-up crop from 
+the shoulders to forehead and an upwing and sad look; poetry with realistic natural color 
+tones seamlessly integrated into monochrome drawing, adding depth and precise contrast; 
+soft diffuse key light from the top left with a cool edge from the top right that produces fine 
+points on the eyes and lips; a high-contrast panel focused on a single artistic tone (graphite, 
+dark brown or indigo ink), ranging from soft middle tones toes to deep shadows; visual paper 
+texture and refined pencil hatching with soft mixed shading in hair and skin; a narrow 
+perspective such as 85mm lens in f/2 for shallow DOF and creamy bokeh background; clean 
+neutral paper background with nice small image, dreamy meditative mood - 3:4. While 
+keeping her face and original features as they are without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #2
+use face above uploaded photo. Hyper realistic portrait of me 
+keep the exact details ok my face with an intense expression 
+luminous skin in a dark setting with dramatic lightning I hold a 
+partially burnt white mask in front of my face the mask is cracked 
+and burning alone one edge whit brith orange fire theth other half 
+of my face in clearly visible with wet hair and a piercing gaze A 
+dark background with a flash floating ash cinematic styl with a 
+mysterious and emotional atmosphere 4k.While keeping her face 
+and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #3
+Create a high-contrast close-up portrait of the referenced man. 
+The image should depict only the left half of his face, partially 
+submerged in water. Fire and ice droplets, along with bubbles, 
+should be visible on his skin and hair. Dramatically illuminate the 
+left side of his face, casting the rest into deep shadow. Use a dark 
+background. Emphasize detailed skin texture, beard stubble, and 
+sharp eye focus to evoke a moody, cinematic atmosphere.While 
+keeping her face and original features the same without changing 
+his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #4
+A hyper realistic close up portrait of a young female face (use uploaded face, expression, 
+emotions, impressions, eyes, nose, aesthetic) with only the left half visible and partially 
+submerged in water. The scene is illuminated dramatically with soft, ambient blue and pink 
+neon lighting, casting colourful reflections on her wet skin and damp hair. Water droplets and 
+small bubbles cling to his face, enhancing the cinematic mood. The skin texture, slight beard 
+stubble, and intense eye focus are clearly visible.While keeping her face and original features 
+the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #5
+Perched atop a high-rise rooftop at the break of dawn, a man 
+stands near the ledge, suit jacket fluttering in the early morning 
+breeze. His hands rest calmly in his pockets, shoulders slightly 
+hunched in quiet contemplation. The city below stretches 
+endlessly&#8212;its skyline glowing softly as the first golden rays of 
+sunlight spill across glass towers, mist-covered streets, and 
+distant cranes beginning to stir. A few morning lights flicker off 
+as life awakens, casting a warm haze over the scene. Behind him, 
+the last remnants of night retreat, leaving behind a sky brushed 
+in soft gradients of amber and lavender.
+The man's posture is composed yet weighted, exuding a quiet 
+strength. His face is turned away from the camera, gazing into 
+the distance&#8212;his silhouette framed by the radiant horizon. 
+There's a subtle sharpness in the tailored lines of his suit, the 
+lapels catching a shimmer of gold from the sun, the fabric 
+rippling gently like a banner in the wind. The wind teases 
+strands of hair, and the atmosphere feels charged with 
+anticipation&#8212;of decisions made, of futures unfolding.
+Style: Ultra-realistic 4K, editorial drama with cinematic 
+precision. Golden hour light spills in soft contrast across the 
+high-angle wide shot, creating long shadows and flares that 
+play off urban surfaces. DSLR 50mm lens emulating magazine-
+grade imagery, rich detail in suit fabric, skin texture, and 
+skyline clarity.
+Mood: Reflective power&#8212;imbued with a sense of quiet 
+command, transitional energy, and unspoken resolve.Ratio 3:4 
+While keeping her face and original features the same without 
+changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑The photo was taken with aac@ Polaroid camera, it should look like a photo with no subject 
+or explicit feature, the photo should have slight blur and a constant light source like a flash 
+from a dark room spread throughout the photo, don't change the face, change the 
+background behind this person with white curtains and have her play the oud and wait for
+the oud",
+"↑￼↑ #7
+A very realistic photograph of a person in the modern street fashion scene, standing in a 
+futuristic city. Using the reference image as a strict source, maintain the exact similarity of 
+the person. This includes delicate facial features, hair, and body proportions. Do not remove 
+natural imperfections - preserve skin texture and pores
+And the original details.
+The subject wears layered clothes: a white shirt down a black jacket with an acular, black 
+pants, and a white sneaker.
+They stand confidently, leaning slightly towards the camera from a very low angle (frog 
+perspective) in the center of a futuristic city with tall glass skyscrapers. Use the fish eye lens 
+effect, making the buildings look largely curved towards a clear blue sky without clouds. 
+Natural daytime lighting, sharp contrast, ultra-realistic cinematography style, high detail, 8K,
+Full street fashion style.
+The appearance of the subject must be identical to the reference image. This text suggests 
+only clothes, placement and setting.
+Cinematic, Fish Eye Lens, Low Angle, Futuristic Architecture, Street Fashion, Sharp Focus, 
+High Contrast, 8k - V 6.0
+- style raw - rw 1.5 - en 9:16
+Keep her face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #8
+Use this image for reference: Create a very realistic editorial image of the same person
+, while maintaining facial structure, skin color, hair texture and emotional expression with 
+maximum accuracy. Do not remove natural imperfections - freckles, scars, pores, asymmetry 
+or wrinkles should be maintained to honor the originality and uniqueness of the subject. Hair 
+should retain its natural texture, length and movement.
+The subject appears in the profile, standing quietly on a train platform, wearing a hooded 
+brown coat and holding a black backpack. He doesn't face the camera, but he watches the 
+scene in front of him. The train passes quickly in the background, creating a strong blur in 
+motion and lines of light.
+Warm reflections from the train windows illuminate a person's face and coat, unlike the 
+cooler tones of the platform and obscure passengers.
+Configuration Vertical (Aspect ratio
+4:3), medium body full, slightly away from the center. The image should evoke themes of 
+isolation, transition and quiet resilience - like a movie still hanging between movement
+And reflection. Camera settings:
+Lens: 50mm/1.8
+ISO:400
+- Aperture: f/2.0
+Camera shutter speed: 605/1 (to capture Blurred movement)
+Shape: Vertical (4:3)
+Lighting: warm environment (~4200K), directional reflections of train windows
+Color classification: warm orange and brown Opposite cold gray
+Mood: Meditative, Cinematic
+Atmosphere: Urban Movement, Realism Editorial
+-V 5 --en 3: 4 --style raw --quality 2
+-Ref _ photo
+Keep her face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #9
+Use this image for reference: Create a very realistic editorial image of the same person
+, while maintaining facial structure, skin color, hair texture and emotional expression with 
+maximum accuracy. The theme stands on a deep black background, illuminated by vibrant, 
+multi-colored light projections covering the face and upper torso. Light patterns include 
+dynamic lines, fireworks, and neon dots - pink, sky blue, lime green, yellow, red, and blue
+Electric - which creates a surreal and vital atmosphere.
+The most intense focus of light around the eyes is like a burst of color and emotion. The 
+subject is dressed as a simple black with a collar with abstract patterns or a flower, which 
+can be skillfully seen under the dropped lights.
+On the body: Light reflections are larger and smoother, forming spots and gradients 
+scattered across
+Neck, shoulders and chest
+Their head tilts slightly upwards, conveying introption, strength, and capillary tension. 
+Lighting should simulate a realistic projection set on the skin, with realistic shades, 
+reflections and color blends. Maintain a sharp focus on the eyes and facial features, with the 
+depth of the film field and soft bokeh in the background.
+Style: Editorial image with surreal tones
+And weather.
+Camera: Full-frame DSLR simulation, lens
+85mm, aperture f/1.4, ISO 100, speed
+The shutter 125/1 second.
+Lighting: Simulated projection mapping with
+Multi-color high-contrast beams.
+Color shades: rich tones saturated with black
+Dark and glowing highlights.
+Resolution: Ultra-high (equivalent to 8K), suitable
+For printing and exhibition.
+Mood: Emotionally charged and captivating
+Visually, enabling and comprehensive.
+--V 5 --ar 3: 4 --style raw --quality 2
+--Ref _ photo
+Keep her face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #10
+Using this image as a reference, create a high-resolution black-and-white image of the same 
+person, while maintaining facial features, hairstyle, skin texture and body expressive position 
+with realistic accuracy. They wear a light-colored jacket (not dark), a white shirt and light 
+pants. The person seems to lean or fall backwards, with one arm stretched up towards the 
+sky - evoking a sense of surrender
+Or elevation or emotional liberation.
+The image must be rotated, so that the subject appears hanging diagonally across the frame. 
+This trend reinforces the visual tension and symbolic mystery of the gesture.
+The background is a small, small and wide gradient sky, creating a stark contrast with
+The silhouette of the subject.
+Do not remove or soften natural imperfections - maintain skin texture, asymmetry and fabric 
+wrinkles to maintain authenticity.
+Use a cinematic lens (35mm or 50mm equivalent, 2.0/a), a high-contrast monochrome 
+display, and subsequent editing style treatment.
+The image should look poetic, dramatic and immortal, with symbolic tones and visual clarity. 
+No
+There are text or overlays. Keep her face and original features the same without changing his 
+identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #11
+Create an image using my image as a reference.
+The photo should be an ultra-resolution, black and white close-up of me standing under the 
+soft rain, my skin squittering with a combination of water drops and shiny soft dust, the head 
+slightly inclined upwards closed, a calm and strong expression, the soft volumetric lighting 
+from the back creates the halo effect, the simple dark background, the capillary and 
+cinematic texture, and the very detailed wet shiny textures. Keep her face and original 
+features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #12
+Stylish fashion editorial photo of a male model wearing an oversized white sweatshirt and 
+white
+sweatpants, paired with white sneakers. A soft red studio backdrop with soft cinematic 
+lighting, highlighting textures, futuristic editorial style, model sitting elegantly, head slightly 
+tilted, relaxed posture.While keeping her face and original features the same without 
+changing his identity. 
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #13
+A cinematic urban portrait of me, keeping my real face unchanged. leaning back against the 
+side of a vintage black car. My right arm rests on my bent right knee, hand relaxed and 
+slightly curled, while my left arm is extended downward with my left hand resting naturally 
+near my foot.
+My left leg is bent with the knee raised, while my right leg is stretched out, with the sole of 
+my sneaker visible to the camera. My posture is laid-back, confident, and effortlessly stylish. 
+I am wearing a fitted black button-up shirt with long sleeves, the fabric matte and sleek, 
+giving a minimalistic but refined look. My black trousers match the shirt, creating a 
+monochrome outfit. On my feet, I am wearing light-colored Nike sneakers with visible swoosh 
+logos, adding a sporty contrast to the dark outfit. On my wrist, I wear a metallic watch that 
+catches the warm light. I also wear small, dark sunglasses that enhance the cool, confident 
+attitude. The background shows the vintage car in detail, its dark While keeping her face and 
+original features the same without changing his identity
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #14
+HYPER-REALISTIC CINEMATIC FULL-BODY
+PORTRAIT OF THE UPLOADED YOUNG MAN, 100% FACE RESERVED, EXACTLY THE SAME AS 
+IN THE ORIGINAL PHOTO WITH NO AI ALTERATIONS, WITH DARK HAIR. HE WEARS A DEEP 
+OLIVE GREEN LINEN SHIRT WITH SEVERAL BUTTONS UNDONE, REVEALING HIS REAL 
+CHEST TATTOO, PAIRED WITH LIGHT-COLORED LINEN PANTS. HE IS BAREFOOT, WALKING 
+CONFIDENTLY ON GOLDEN SAND DUNES WHILE HOLDING THE LEAD OF A MAJESTIC WHITE 
+HORSE AT HIS SIDE.
+FABRIC PANELS ARE BILLLOWING
+DRAMATICALLY BEHIND THEM IN THE WIND, FRAMING THE SUBJECT AND HORSE. CAMERA 
+ANGLE IS SLIGHTLY LOW, CAPTURING A POWERFUL, FORWARD-MOVING STANCE WITH 
+BOTH MAN AND HORSE CENTERED IN THE FRAME. THE SCENE IS LIT BY THE WARM 
+GOLDEN GLOW OF EARLY MORNING/LATE AFTERNOON SUNLIGHT, CREATING A DRAMATIC 
+AND CINEMATIC MOOD.
+ULTRA-DETAILED SKIN TEXTURES, REALISTIC HAIR, FABRIC, AND TATTOO DETAILS, &K 
+ULTRA REALISM, RICH CINEMATIC COLOR GRADING While keeping her face and original 
+features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #15
+A hyper-realistic cinematic lifestyle portrait of a stylish young Indian man lounging 
+confidently on a modern hanging wicker chair. He is dressed in a trendy all-white-ord set 
+with a casual T-shirt and open shirt, paired with colorful designer sneakers and a luxury 
+wristwatch. His expression is cool and composed as he slightly leans back with a relaxed 
+posture, wearing dark sunglasses that add charisma to his look. The setting is a minimal 
+outdoor terrace with subtle decor, soft natural daylight, and a clean modern vibe.
+Captured in ultra-detailed 8K resolution with sharp textures, natural skin tones, realistic 
+shadows, and a premium fashion editorial aesthetic. While keeping her face and original 
+features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #16
+Convert this image into a High-fashion monochrome close-up of a man in a long wool coat, 
+shot from a low angle with wind tousling his hair. His eyes are piercing, looking slightly away 
+from the amera, evoking strength and enigma. Stron contrast between light and shadow 
+emphasizes texture of fabric and facial features, channelling bold magazine cover energy.,
+style Luxury editorial, monochrome, dramatic, powerful aesthetic While keeping her face 
+and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #17
+Convert this image and Edit the photo to show the person standing casually inside a modern-
+style elevator with reflective metal walls. He is wearing an all-black outfit: a black suit and 
+black trousers, with dark sunglasses and holding a takeaway coffee cup. The style is elegant 
+and edgy, with a mysterious vibe. Dim lighting from neon lights on the ceiling creates soft 
+shadows. While keeping her face and original features the same without changing his 
+identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #18
+Convert this image into A stylish young man, facial will be the same as the reference image, 
+with sharp features and dark tousled hair parted naturally.
+He is leaning casually against a vintage suitcase. He wears a textured brown blazer over an 
+open-collar dark brown shirt, slightly unbuttoned at the top, paired with high-waisted light 
+beige pleated trousers and a dark belt. The aesthetic is elegant and retro-inspired, with 
+earthy tones. Minimalistic indoor background, cinematic warm natural lighting While keeping 
+her face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #19
+Use the model to create a black-and-white studio photo, featuring a young man sitting 
+casually on a metal folding chair with his legs crossed. He is wearing a denim jacket, a dark t-
+shirt, straight jeans, and black boots. The lighting is soft and minimal, producing sharp 
+shadows and a moody atmosphere. His body pose is relaxed, slightly leaning back with one 
+hand on the chair's armrest, his face turned to the side.
+The background is plain, with a simple and modern aesthetic. While keeping her face and 
+original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #20
+Convert this image into a Ultra-realistic black and white editorial portrait of a man sitting on 
+the floor of a minimal room. He wears a wrinkled shirt with the top buttons open, sleeves 
+rolled up, and distressed denim pants torn at the knees.
+His curly hair frames his face as he looks directly at the camera with an intense, moody 
+expression.
+He leans slightly back, supporting himself with both hands placed on the floor just behind 
+him, leg stretched straight outward while other leg bend upward. While keeping her face and 
+original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #21
+Convert this image into a Ultra-realistic 8K
+photograph of a person seated on a wooden chair, facing forward, with their arms crossed 
+and resting on the top of the chair's backrest.
+Face expression same as a original upload person The person is wearing a dark, high-neck, 
+long-sleeved top. Emphasize dramatic, single-source side lighting that creates strong 
+contrasts and deep shadows, highlighting facial features and body contours. A distinct 
+pattern of light and shadow, reminiscent of Venetian While keeping her face and original 
+features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #22
+Turn this image to a vintage 1990s Bollywood-inspired photograph of a stylish man sitting 
+casually on the hood of a classic car. He is dressed in a black blazer, black boot cut trousers, 
+and a white shirt with the top buttons open, paired with black boots, giving a confident 
+mafia-style look. The car has wide whitewall tires, chrome details, and a polished metallic 
+body, reflecting sunlight. in the background, tall green trees and hedges frame the scene. 1/2 
+While keeping her face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #23
+Create a retro vintage grainy but bright image of the reference picture but draped in a 
+perfect white colour suit Pinteresty aesthetic retro pants. It must feel like a
+'90s movie hair baddie with a small flower bookey in hand and romanticising a windy 
+environment. The man is standing against a solid deep shadow and contrast drama, creating 
+a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a 
+sunset or golden hour glow. While keeping her face and original features the same without 
+changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #24
+Ultra realistic, 8K resolution cinematic image of a person crouching beside a powerful black 
+horse in a snow-covered mountainous landscape. Face with the face from the uploaded 
+image, keeping the facial features exactly the same. wavy hair, and wears dark sunglasses, a 
+cozy black sweater, grey cargo pants, and black boots. He crouches with one knee bent, 
+holding the reins of the horse with a relaxed yet confident posture. The horse is muscular, 
+with a glossy jet-black coat, flowing mane, and expressive eyes, wearing a simple leather 
+halter. Snow blankets the ground with footprints and scattered rocks visible. In the 
+background, soft-focus snow-covered hills, pine trees, and distant mountain peaks stretch 
+under a clear blue sky. Snowflakes gently fall around them, adding depth and softness to the 
+scene. The lighting is soft and natural, highlighting details like the texture of the snow, fabric 
+folds, and hair strands. The overall mood is calm, adventurous, and majestic, evoking a sense 
+of freedom and harmony with nature.While keeping her face and original features the same 
+without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #25
+Convert this image into a Young man takes a full-body mirror selfie at eye level, leaning 
+against his sneaker rack with crossed legs. He holds earphones on tousled curls and an 
+iPhone 17 Pro Max near his face.
+Morning sunbeams light the modern marble floor.
+Wearing a sleeveless distressed Under Armour hoodie, baggy basketball cargo pants, 
+Converse sneakers, and a rugged sports watch.
+Batman graffiti behind him. Sharp focus, warm natural light, cinematic color grading, 8K 
+detail,
+Gen-Z vibe. While keeping her face and original features the same without changing his 
+identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #26
+An ultra-realistic art image, wearing an elegant black shirt, glowing hair with a golden 
+background, contrasting with cold green light on the face and chest, on a deep black 
+background. The model is placed slightly in the profile, gently turning the head to the side 
+with a thoughtful expression, avoiding direct eye contact with the camera. While keeping her 
+face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #27
+A high-resolution, cinematic, and photorealistic close-up profile portrait of a man. The image 
+features dramatic split-lighting with a vibrant, glowing red light illuminating the top of his 
+face and a contrasting, cool neon blue light casting a soft glow on his jawline and neck. He 
+has a contemplative expression, looking upwards and away from the camera. The focus is 
+sharp on his eye, with a dark, minimalist background. The style is moody, ethereal, and high-
+fashion While keeping her face and original features the same without changing his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #28
+Crea tu propia fotografía con calidad de estudio usando Gemini
+Al.
+Prompt en los comentarios.
+Using this image as reference: generate a hyperrealistic editorial
+portrait of the same person, preserving facial structure, skin tone, hair texture, and 
+emotional expression with maximum fidelity.
+Do not remove natural imperfections
+&#8212;freckles, scars, pores, asymmetries, or wrinkles must be preserved to honor the subject's 
+authenticity and individuality.
+The subject is seated inside an old taxi with faded leather seats. His head rests gently 
+against the seat, one hand placed on the edge of the glass. The portrait is shot from outside 
+the vehicle, capturing overlapping reflections across the face and window surface. The 
+jawline and neck are subtly emphasized to create a statuesque, cinematic silhouette.
+Red and green neon lights from the city pass by, refracting through the wet glass and casting 
+shifting colors across the subject's face. He wears
+a black button shirt. The lighting is soft but dramatic, with deep shadows and glowing 
+highlights that sculpt the face and evoke a sense of urban solitude.
+The image tone is rich in red-green contrast, with thick film grain, pronounced motion blur 
+from passing lights, and a hazy glow around the vehicle's headlights. The composition is 
+vertical (3:4 aspect ratio), close-up or three-quarter framing, with the subject centered or 
+slightly offset. The mood should evoke loneliness, introspection, and the quiet ache of city 
+life-like a cinematic still from a Wong Kar-wai film.
+Camera settings:
+- Lens: 50mm f/1.4 (for emotional intimacy and cinematic compression)
+- ISO: 800
+- Aperture: f/1.4
+- Shutter speed: 1/60s
+- Format: vertical (3:4 aspect ratio)
+- Lighting: ambient neon (~3200K red + ~5200K green), refracted through wet glass
+- Color grading: red-green contrast, soft glow, heavy grain
+- Mood: melancholic, cinematic, emotionally suspended
+- Atmosphere: urban night, poetic solitude, editorial realism
+- -v 5 --ar 3:4 --style raw --quality 2
+- --ref_photo
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #29
+Using this image as a reference: creating a very realistic editorial
+An image of the same person, while maintaining facial structure, skin color, hair texture and 
+emotional expression with maximum sincerity.
+Do not remove natural defects
+- Freckles, scars, pores, asymmetry or wrinkles must be maintained to honor the originality 
+and individuality of the subject.
+He sits inside an old taxi with faded leather seats. He gently rests his head on the bench, 
+placing one hand on the edge of the glass. The image is taken from outside the car, and 
+overlapping reflections are captured across the face and window surface. The jaw line and 
+neck are skillfully emphasized to create a staturine cinematic silhouette.
+Red and green neon lights pass through the city, breaking through the wet glass and 
+receiving changing colors across the face of the subject. He wears
+Black shirt with buttons. The lighting is soft but exciting, with deep shadows and glowing 
+highlights that sculpt the face and evouse a sense of urban isolation.
+The tone of the image is rich in red and green contrast, with thick film granules, blur clear 
+motion of the passing lights, and a fuzzy glow around the car's headlights. The configuration 
+is vertical (3:4 aspect ratio), close to or three quarters of framing, with thread focus or slight 
+displacement. The mood should evoke loneliness, meditation and quiet pain in city life - like 
+still a movie from the movie Wong Kar Wei.
+Camera settings:
+- Lens: 50mm f/1.4 (for emotional intimacy and film pressure)
+- ISO:800
+- Aperture: f/1.4
+- Shutter speed: 1/60 seconds - Shape: Vertical (3:4 aspect ratio)
+- ILLUMINATION: AMBIENT NEON (~3200K RED + ~5200K GREEN), REFRACTED THROUGH 
+THE WET GLASS
+- Color classification: contrast red and green, smooth glow, heavy grain
+- Mood: gloomy, cinematic, emotionally suspended
+- Atmosphere: Urban Night, Poetic Isolation and Editorial Realism
+- -v 5 --en 3:4 --style raw --quality 2
+- --ref_photo
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #30
+Create a very realistic cinematic image of the same confident and intense person wearing a 
+deep burgundy coat, a sharp black shirt and a bold red tie. The background should feature 
+dramatic smoke that blends red on one side with dark shadows on the other, symbolizing 
+strength and mystery. Lighting should highlight his strong expression and leadership 
+presence, giving an elegant and dominant aura.8k Ultra Sharp. INCLUDE A SMALL PALE 
+. Use 100% of his face, your face should be just like the original selfie - without 
+editing, retouching, or softening. Maintain all facial features, skin texture and expressions,
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #31
+A high-contrast futuristic image of the same person wearing a black jacket and red glowing 
+sunglasses, illuminated by a circular purple green light that casts dramatic shadows and 
+surreal tones. Introduced in a highly detailed 8K digital art with cinematic lighting; 
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+revising or softening. Maintain all facial features, skin texture and expressions.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #32
+A high-contrast futuristic image of the same person wearing a black jacket, the background 
+illuminated with a circular purple green light that casts dramatic shadows and surreal tones. 
+Introduced in a highly detailed 8K digital art with cinematic lighting;
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+reviewing or softening. Maintain all facial features, skin texture and expressions.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #33
+Make a cinematic and surreal scene for the same person. He wears elegant embroidered 
+clothes decorated with sparkling green and gold leaf patterns. The man sits gracefully on the 
+edge of a small wooden boat floating over reflective dark water, with a wooden table next to 
+him. Behind it, the huge glowing full moon illuminates the night sky, and its reflection 
+spreads through the water. The atmosphere should feel a dream, elegant and ethereal, with 
+soft lighting that highlights its calm and complex expression. Use 100% of his face, your face 
+should be just like the original selfie - without editing, retouching, or softening. Maintain all 
+facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #34
+A very realistic cinematic fashion image of the same person
+,Wears reflective silver sunglasses. Outfit: Midnight deep blue velvet jacket with a hidden 
+gloss, specially designed black slim trousers, black silk turtleneck.
+On his shoulders is an organized charcoal wool coat that captures cinematic highlights. He 
+adjusts the slap of his jacket in the middle of the movement, leaning the look down, exuding 
+an easy power.
+Setting: The background of the elegant capital city at dusk, skyscrapers that reflect the light 
+of the golden clock mixed with blue steel tones.
+Illumination: The mood and directional highlights the reflections of velvet, wool and glass, 
+with soft shades and fine cinematic torches. Use 100% of his face, your face should be just 
+like the original selfie - without editing, retouching or smothening. Maintain all facial 
+features, skin texture and expressions
+Style keywords: men's high fashion opening, cinematic luxury, super realism, ultra-detailed 
+texture, SK resolution, Sony G-Master lens, Vogue x GQ x Film Noir.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #35
+A very realistic cinematic fashion image of the same person
+,Outfit: Midnight deep blue velvet jacket with a hidden gloss, specially designed black slim 
+trousers, black silk turtleneck.
+On his shoulders is an organized charcoal wool coat that captures cinematic highlights. He 
+adjusts the slap of his jacket in the middle of the movement, leaning the look down, exuding 
+an easy power.
+Setting: The background of the elegant capital city at dusk, skyscrapers that reflect the light 
+of the golden clock mixed with blue steel tones.
+Illumination: The mood and directional highlights the reflections of velvet, wool and glass, 
+with soft shades and fine cinematic torches. Use 100% of his face, your face should be just 
+like the original selfie - without editing, retouching or smothening. Maintain all facial 
+features, skin texture and expressions
+Style keywords: men's high fashion opening, cinematic luxury, super realism, ultra-detailed 
+texture, SK resolution, Sony G-Master lens, Vogue x GQ x Film Noir.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #36
+A cinematic image of me standing with Tommy Shelby from Peaky Blinders at a glamorous 
+party, both of us posing for a media photograph.
+Make sure both of us are clearly visible and recognizable, with identical face styles 
+maintained for consistency. The background should be blurred with soft party lighting to 
+keep the focus on us.While keeping her face and original features the same without changing 
+his identity.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #37
+A handsome, aristocratic person embracing a majestic bay horse in an autumn forest. He is 
+wearing a dark navy or black fitted long-sleeve equestrian shirt. Close-up portrait shot, 
+cinematic lighting, shallow depth of field, warm tones, professional photography, soft golden 
+hour. Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #38
+** person ** standing with a **majestic dark bay horse** in a **wild, golden field of tall 
+grass**, the horse's head is turned toward the camera. Person is wearinga
+**dark, fitted, suede-like jacket** and a
+**high-collared shirt**and black pants (turtleneck). He is holding the horse's bridle.
+**Overcast sky** with a soft, diffused light.
+**Golden hour** lighting. **Deep colors**,
+**cinematic quality**,
+**ultra-realistic
+photography**. Use 100% of his face, your face should be just like the original selfie - 
+without editing, retouching or smothening. Maintain all facial features, skin texture and 
+expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #39
+Equestrian model is a handsome and elegant person, wearing dark marine artistic riding 
+equipment and burgundy leather boots, kneeling next to a majestic gray horse. The horse 
+wears a dark padded saddle pad and an earmap. Filmed on a black background with 
+dramatic, high-contrast studio lighting.
+Professional photography, very realistic, shallow depth of field, moody.&#8221;
+A dramatic image of a person's racer with a Spanish gray horse or Lucitano. The person 
+bends down, holds the reins, and wears fashionable equestrian sportswear with delicately 
+patterned pants. Elegance, moody atmosphere, chiaroscuro lighting, dark stable setting, fine 
+art photography style.&#8221;Use 100% of his face, your face should be just like the original selfie - 
+without editing, retouching or smothening. Maintain all facial features, skin texture and 
+expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #40
+A handsome equestrian person, wearing a navy jacket over a light gray hoodie, dark pants, 
+long black riding shoes, standing next to a beautiful gray horse wearing a stable navy blanket 
+and a leather halter. The person carries the lead cord. Outdoor setting with dark wooden 
+fence and greenery in the background. Professional studio photography, soft natural 
+light.Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #41
+A handsome person , wearing a fitted navy blue shirt and dark riding breeches, standing 
+next to a beautiful bay horse. The horse hasa braided mane and is wearing a gold and red 
+halter.
+Outdoor setting, soft naturallight.
+Portrait of an equestrian and his horse. The Person is looking at the horse with his hand on 
+its neck. The horse is a warmblood with a dark brown coat. Professional equestrian 
+photography style, shallow depth of field, focus on the subjects. Use 100% of his face, your 
+face should be just like the original selfie - without editing, retouching or smothening. 
+Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #42
+A close-up and exciting photo of a handsome person, standing affectionately next to a 
+wonderful dark bay horse. The person looks intently at the horse's head, and gently touches 
+his bridle. He is wearing an elegant leather launcher jacket in dark olive green with a fur or 
+faux fur collar and matching green pants. Outdoor setting in an equestrian environment, with 
+soft natural light filted through the trees in the background, a hint of a stable structure, and a 
+lush green front. Dynamic lighting, soft focus background, professional fashion photography, 
+high detail.Use 100% of his face, your face should be just like the original selfie - without 
+editing, retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #43
+&#8220;Worm's-eye view of the same person wearing fashionable clothes, sitting on a large cube or 
+platform in bright yellow. The person looks directly down towards the camera with a 
+confident and calm smile.
+Details:
+&#8226; Person: Wearing a dark satan (black/dark blue) bomber jacket with yellow/white striped 
+details on the collar and wrists and a chest pocket with a white/gold logo. Wears loose pants 
+(baggy) in light beige or cream, folded at the ankle.
+&#8226; Shoes: A classic-looking white sneaker is clearly visible in the front, especially the camera-
+oriented sole, creating an exaggerated depth. The other shoe on the left shows its entire 
+side.
+&#8226; Angle and composition: A very low angle that makes a person look huge and dominant. The 
+shoe insole controls the central bottom of the image.
+&#8226; Lighting and atmosphere: Dramatic and bright lighting are the most prominent feature. The 
+background and background of the entire scene are submerged with a strong and intense 
+glow in warm yellow/orange, creating a high contrast with dark clothing. Backlight creates an 
+aura around a young man's hair and shoulders.
+&#8226; Background: There are no specific details except for the uniform yellow color and the cubic 
+platform on which it sits.
+&#8226; Style: advertising photography, fashion, lively, cinematographic, with strong studio lighting.
+&#8226; Additional hashtags/keywords (for generation): Low angle shot, extreme perspective, 
+Hummel shoes (or classic white sports shoes), streetwear, retro style, vivid colors, deep 
+shadows, dramatic lighting.Use 100% of his face, your face should be just like the original 
+selfie - without editing, retouching or smothening. Maintain all facial features, skin texture 
+and expressions.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #44
+Cinematic portrait of a For the same person wearing a dark denim jacket, looking down at a 
+glowing smartphone/tablet. Intense dramatic neon lighting, strong contrast of cyan/blue and 
+magenta/red light. Deep bokeh background with blurred neon signs. Ultra-detailed, 
+photorealistic, 8k.Use 100% of his face, your face should be just like the original selfie - 
+without editing, retouching or smothening. Maintain all facial features, skin texture and 
+expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #45
+&#8220;A captivating and very realistic image (hyperrealistic) of the same person attached to the 
+image is strong and attractive (striking) standing outdoors in an arid or scattered area with 
+trees at dusk. Subject:
+Model: The same person with serious and confident facial expressions, looking directly at 
+the camera.
+&#8226; Glasses: Wears futuristic sunglasses or large white-frame ski goggles, adding a touch of 
+cyberpunk or dystopian.
+Clothing and details:
+&#8226; Jacket: Wear a racing jacket or a color contrasting bomber jacket (white, orange, black).
+&#8226; Decoration: The jacket is heavily covered with patches or stickers and typography that look 
+like symbols, logos, and advertisements from a futuristic or dystopian world. Some patches 
+show thumbnails.
+Effects and general mood (mood and effects):
+&#8226; Fire/Flame: Surrounded by halos or tongues of a bright and dramatically burning orange 
+flame, wrapped around her shoulders, chest and arms, giving the impression of strength or 
+that her body emits energy.
+&#8226; Lighting: Strong dramatic lighting from the fire source, creating sharp contrasts between 
+shadows and illuminated parts (chiaroscuro), with a warm orange rim light on the edges of 
+the jacket and hair.
+&#8226; Background: Blurred/hazy outdoor scene at dusk or in a gray atmosphere, in which a few 
+scattered trees with bare branches appear.
+&#8226; Style: digital art, cinematic, ultra-definition photography, futuristic editorial photography, 
+similar to (in the style of) Artgerm or Alex Ross with a cyberbank dystopy touch.Use 100% 
+of his face, your face should be just like the original selfie - without editing, retouching or 
+smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #46
+&#8220;A captivating and very realistic image (hyperrealistic) of the same person attached to the 
+image is strong and attractive (striking) standing outdoors in an arid or scattered area with 
+trees at dusk. 
+Subject:
+Model: The same person with serious and confident facial expressions, looking directly at 
+the camera.
+Clothing and details:
+&#8226; Jacket: Wear a racing jacket or a color contrasting bomber jacket (white, orange, black).
+&#8226; Decoration: The jacket is heavily covered with patches or stickers and typography that look 
+like symbols, logos, and advertisements from a futuristic or dystopian world. Some patches 
+show thumbnails.
+Effects and general mood (mood and effects):
+&#8226; Fire/Flame: Surrounded by halos or tongues of a bright and dramatically burning orange 
+flame, wrapped around her shoulders, chest and arms, giving the impression of strength or 
+that her body emits energy.
+&#8226; Lighting: Strong dramatic lighting from the fire source, creating sharp contrasts between 
+shadows and illuminated parts (chiaroscuro), with a warm orange rim light on the edges of 
+the jacket and hair.
+&#8226; Background: Blurred/hazy outdoor scene at dusk or in a gray atmosphere, in which a few 
+scattered trees with bare branches appear.
+&#8226; Style: digital art, cinematic, ultra-definition photography, futuristic editorial photography, 
+similar to (in the style of) Artgerm or Alex Ross with a cyberbank dystopy touch.Use 100% 
+of his face, your face should be just like the original selfie - without editing, retouching or 
+smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #47
+A stylish person walking casually in front of a metallic shutter wall, his hairstyle exactly 
+matching the reference image. A white Alto car is parked behind him, making it look like he 
+just parked and is walking away confidently. He wears a crisp, bright-colored polo shirt 
+tucked into tailored slim trousers, paired with sleek white sneakers. One hand adjusts his 
+sunglasses while the other swings naturally, slight motion blur on the legs to convey 
+movement. Cinematic urban fashion vibe, high-resolution professional photography, 
+dramatic side and rim lighting, soft boken foreground and background blur, reflections 
+glinting on the metallic wall and car. Face must remain 100% identical to the reference image, 
+no changes in features or identity, and face extra brightened to highlight expression and 
+detail. Ultra-realistic, magazine editorial style, visually striking, polished, and dynamic.
+Lighting & Mood: warm golden-hour sunlight reflecting off the lake, creating realistic 
+highlights on skin and fabric; soft lens flare, gentle shadows, and subtle boke in the 
+background for cinematic depth.
+Background: calm, reflective lake waters with subtle ripples, lush green trees along the 
+shoreline, distant misty hills, and partly cloudy sky. The scene is tranquil, vivid, and visually 
+striking.
+Mood & Style: elegant, grounded, and serene wanderer energy: modern Pakistani fashion 
+with cinematic, shareable Instagram aesthetics.
+Editing/Al Details: emphasize natural skin texture, Fabric flow, and soft water reflections; 
+maintain hyper-realistic details while subtly enhancing colors for a polished, photorealistic 
+effect.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #48
+Ultra-realistic 4K cinematic image for a stylish photo
+For the same person sitting elegantly inside a luxury car with deep red leather seats. Same 
+camera angle and dramatic lighting for reference.
+Leaning backwards in a relaxed but balanced way, one arm gently on the steering wheel, the 
+other on the seat, slightly tilted with sharp confidence with sharp head. His eyes close 
+directly to the camera with a faint and sophisticated smile, radiating a simple charm. His hair 
+is slightly moist, and effortlessly designed, with a natural sweat flash that catches the flash, 
+giving a subtle and realistic glow to the skin. Wears old-fashioned money-style clothing: 
+loose chestnut polo shirt (knitted fabric, open collar, natural fabric tones), cream-designed 
+pants, and a classic leather-tied wristwatch. Lighting and shadows are balanced with 
+realistic color classification, avoiding harsh saturation. Captured on the Canon EOS R5 with a 
+50mm f/1.2 RF lens, an ultra-shallow depth of field, and a natural cinematic peach.Use 100% 
+of his face, your face should be just like the original selfie - without editing, retouching or 
+smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #49
+Ultra-realistic 4K cinematic image for a stylish photo
+For the same person sitting elegantly inside a luxury car with deep red leather seats. Same 
+camera angle and dramatic lighting for reference.
+Leaning backwards in a relaxed but balanced way, one arm gently on the steering wheel, the 
+other on the seat, slightly tilted with sharp confidence with sharp head. His eyes close 
+directly to the camera with a faint and sophisticated smile, radiating a simple charm. His hair 
+is slightly moist, and effortlessly designed, with a natural sweat flash that catches the flash, 
+giving a subtle and realistic glow to the skin. He wears an old-fashioned money-style shirt: a 
+loose knitted fabric-colored polo shirt, an open collar, natural fabric tones), specially 
+designed cream pants, and a classic leather-tied wristwatch. Lighting and shadows are 
+balanced with realistic color classification, avoiding harsh saturation. Captured on the Canon 
+EOS R5 with a 50mm f/1.2 RF lens, an ultra-shallow depth of field, and a natural cinematic 
+peach.Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #50
+Use 100% of his face, your face should be just like the original selfie - without editing, 
+retouching or smothening. Maintain all facial features, skin texture and expressions 
+An ultra-realistic cinematic fashion image of the same person wearing a comfortable and 
+loose polo pastel shirt, slightly tucked in specially designed soft beige pants, paired with fine 
+white diamond earrings and a thin gold chain necklace. He is caught in a dynamic but natural 
+position in the middle of the step with a slight forward inclination, hands relaxed on his sides 
+or gently in his pockets, his head is subtly tilted towards light, exuding effortless confidence 
+and modern elegance.
+Illumination and atmosphere: The warm sunlight in the golden hour from a low angle casts 
+soft and elegant shades, with a delicate edge light that illuminates the edges of his hair and 
+shoulders. A narrow beam of light strips on his face, creating a stunning chiaroscuro that 
+highlights facial features and textures. Soft film shadows enhance depth and realism.
+Background: Silent, minimally graduated tones that move from soft gold at the bottom to the 
+gentle beige at the top, sparking the editorial evolution of high fashion that reminds us of 
+luxury magazine covers.
+The effect of the minor short essay focuses attention on the subject, highlighting the highly 
+realistic leather texture, refined fabric details, and the polished editorial finish.
+Mood and elegance: calm, confident and sophisticated; realistic texture, cinematic depth and 
+worthy elegance of the magazine
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

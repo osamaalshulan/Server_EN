@@ -1,0 +1,144 @@
+{
+  "quotes": [
+"#1
+''A delicate glass floral arrangement with translucent pink glass leaves and translucent purple glass buds, designed in a glass-like style. The flowers and leaves have a natural texture with subtle color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#2
+''A delicate glass floral arrangement with translucent purple glass leaves and buds, designed in a glass-like style. The flowers and leaves have a natural texture with subtle color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#3
+''A delicate glass floral arrangement with translucent purple glass leaves and violet buds, designed in a glass-like style. The flowers and leaves have a natural texture with subtle color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#4
+''A delicate glass floral arrangement with translucent purple glass leaves and transparent pink buds, designed in a glass-like style. The flowers and leaves have a natural texture with subtle color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#5
+''A delicate glass floral arrangement with purple leaves and light green buds, designed in a subtle and elegant watercolor style. The flowers and leaves have a natural texture with subtle color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#6
+''Delicate glass flowers with soft, translucent violet petals are crafted with graceful, elegant curves. The stems and leaves are made of thin, transparent glass with pinkish-violet edges, lending an air of refined luxury. Arranged in a light and graceful composition, the design exudes sophistication and elegance with smooth color gradients and natural shading. Floral elements are placed in the upper and lower right corners, adding a touch of elegance to the central area. The high-resolution white background is simple yet elegant, making it an ideal design for a wedding invitation.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#7
+''Delicate glass flowers with soft, translucent violet petals are crafted with graceful, elegant curves. The stems and leaves are made of thin, transparent glass with pinkish-violet edges, lending an air of refined luxury. Arranged in a light and graceful composition, the design exudes sophistication and elegance with smooth color gradients and natural shading. Floral elements are placed in the upper and lower right corners, adding a touch of elegance to the central area. The high-resolution white background is simple yet elegant, making it an ideal design for a wedding invitation.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#8
+''Delicate glass flowers with soft, translucent violet petals are crafted with graceful, elegant curves. The stems and leaves are made of thin, transparent glass with pinkish-violet edges, lending an air of refined luxury. Arranged in a light and graceful composition, the design exudes sophistication and elegance with smooth color gradients and natural shading. Floral elements are placed in the upper and lower right corners, adding a touch of elegance to the central area. The high-resolution white background is simple yet elegant, making it an ideal design for a wedding invitation.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#9
+''A delicate bouquet of glass roses with soft, translucent violet petals, crafted with subtle, elegant curves. The stems and leaves are made of thin, clear glass with pinkish-violet edges, lending a touch of refined luxury. The soft, gradient white background highlights the clarity and detail of the glass. A hyper-realistic display with high detail, soft reflections, a simple and elegant composition, and studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#10
+''A delicate bouquet of glass roses with soft, translucent violet petals, crafted with subtle, elegant curves. The stems and leaves are made of thin, clear glass with pinkish-violet edges, lending a touch of refined luxury. The soft, gradient white background highlights the clarity and detail of the glass. A hyper-realistic display with high detail, soft reflections, a simple and elegant composition, and studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#11
+''A delicate bouquet of glass roses with soft, translucent violet petals, crafted with delicate and elegant curves. The stems and leaves are made of thin, clear glass with gold-violet edges, lending a touch of refined luxury. The soft, gradient white background highlights the clarity and detail of the glass. A hyper-realistic display with high detail, soft reflections, a simple and elegant composition, and studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#12
+''A delicate floral arrangement with purple leaves and light green buds, designed in a subtle and elegant watercolor style. The flowers and leaves have a natural texture with delicate color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#13
+''A delicate floral arrangement with purple leaves and light green buds, designed in a subtle and elegant watercolor style. The flowers and leaves have a natural texture with delicate color gradients. Place the arrangement against the edges of the image, keeping the background crisp white. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#14
+''A delicate floral arrangement with soft purple leaves and light green buds, designed in a delicate and elegant watercolor style. The flowers and leaves have a natural, light texture with subtle color gradients. Place the arrangement against the edges of the image, creating a soft framing effect, while maintaining a pristine white background. The overall atmosphere is elegant, romantic, and understated.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#15
+''A delicate floral arrangement featuring soft pink and purple leaves and light green buds, designed in a gentle, elegant watercolor style. The flowers and leaves have a natural, airy feel with subtle gradients. Place the arrangement along the edges of the image, creating a soft frame effect, while keeping the background clean, bright white. The overall mood is elegant, romantic, and minimalistic.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#16
+''Elegant soft floral background with delicate pastel-purple and pink leaves, subtle white blossoms, and light green foliage. The flowers are arranged around the borders in a gentle, natural composition. Soft gradient backdrop with a dreamy, romantic atmosphere. High-quality botanical illustration style with fine details, smooth lighting, and a calm, refined aesthetic.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#17
+''Delicate purple flowers with soft, elegant petals and delicate green leaves are arranged in a light and graceful composition. The design exudes sophistication and refinement, with smooth color gradients and natural shading. Floral elements are positioned in the upper and lower right corners, lending an elegant touch to the central area. The high-resolution white background is simple and elegant, creating a perfect design for a wedding invitation.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#18
+''A delicate bouquet of glass roses with soft pink and translucent petals, crafted with fine, elegant curves. The stems and leaves are made of thin, transparent glass with rose-gold edges, giving a refined and luxurious feel. The background is a smooth, gradient grey to highlight the clarity and detail of the glass. Hyperrealistic rendering, high detail, soft reflections, minimalistic and elegant composition, studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#19
+''A delicate bouquet of glass roses with soft pink and translucent petals, crafted with fine, elegant curves. The stems and leaves are made of thin, transparent glass with rose-gold edges, giving a refined and luxurious feel. The background is a smooth, gradient grey to highlight the clarity and detail of the glass. Hyperrealistic rendering, high detail, soft reflections, minimalistic and elegant composition, studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#20
+''Delicate purple and pink flowers with soft, elegant petals and delicate green leaves are arranged in a light and graceful composition. The design is characterized by its refinement and sophistication, with smooth color gradients and natural shading. The floral elements are positioned in the upper and lower right corners, leaving the central area uncluttered. The high-resolution white background is simple and elegant, creating a perfect wedding invitation design.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#21
+''Delicate pink and purple flowers with soft, elegant petals and subtle green leaves, arranged in a light, graceful composition. The style is gentle and refined, with smooth gradients and natural shading. Place the floral elements in the upper-right and lower-left corners, leaving the center area clean. White background, high-resolution, minimalistic, elegant wedding invitation style.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#22
+''Elegant photorealistic image of a single stylized flower crafted from shimmering clear, light-lilac glass. Broad, gracefully curved petals capture and reflect light, creating soft highlights and subtle shadows. Petals are translucent, revealing internal details and imparting an ethereal quality, while the central stamen is intricately detailed with a crystalline structure. A slender, almost invisible stem descends, supporting the flower. Soft, diffused lighting creates delicate highlights and accentuates the glass texture. Clean composition emphasizes beauty and simplicity.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#23
+''Hyperrealistic flower, entirely crafted from clear glass with a delicate lavender hue, no visible core, showcasing gracefully rounded glass petals mimicking a real flower.
+Ethereal, gradient light-lilac studio illumination refracting through the glass, smooth greenish-glass stem, neutral backdrop emphasizing transparency and delicate texture.
+Light and shadow interplay, highly detailed rendering.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#24
+''Ultra-realistic translucent glass flower with intricate wing details, soft pastel highlights, luminous light refractions, and smooth glossy reflections.
+Dreamy cinematic aesthetic with a minimal warm-toned background, soft-focus depth of field, subtle bokeh, and natural volumetric lighting.
+Hyper-detailed, 8K photorealistic rendering with elegant and delicate composition.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#25
+''delicate glass butterfly with transparent blue crystal wings, detailed wing veins and soft reflections, resting on a clean white background. symmetrical top-down view, minimalistic composition, elegant and ethereal aesthetic. high-quality macro render, soft diffused lighting, realistic refractions and shadows, hyper-detailed textures, 8K resolution, photorealistic style.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#26
+''delicate glass butterfly with transparent pink crystal wings, detailed wing veins and soft reflections, resting on a clean white background. symmetrical top-down view, minimalistic composition, elegant and ethereal aesthetic. high-quality macro render, soft diffused lighting, realistic refractions and shadows, hyper-detailed textures, 8K resolution, photorealistic style.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#27
+''Create an image: one large glass rose with light red and pink petals. The flower is designed with subtle, graceful curves. The stems and leaves are made of thin, transparent glass, adding an elegant and luxurious touch to the composition. The background is a smooth, gradient beige-pink color that highlights the transparency and detail of the glass. The image features hyperrealistic visualization, high detail, soft reflections, a minimalist and elegant composition, and studio lighting''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#28
+''A delicate bouquet of glass roses with soft pink and translucent petals, crafted with fine, elegant curves. The stems and leaves are made of thin, transparent glass with rose-gold edges, giving a refined and luxurious feel. The background is a smooth, gradient grey to highlight the clarity and detail of the glass. Hyperrealistic rendering, high detail, soft reflections, minimalistic and elegant composition, studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#29
+''Delicate glass flower sculpture with soft pink and white translucent petals, elegant and smooth curves, thin glass stem, crystal-clear glass leaves with subtle amber reflections, minimalist grey background, hyperrealistic lighting, luxury botanical art style, 3D render look, studio lighting.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#30
+''A single delicate flower with translucent, glass-like petals that reflect light subtly, outlined with fine dark edges, realistic green stem and calyx, soft pastel gradient background in shades of lavender and pale blue, minimalistic composition, high resolution, hyper-realistic digital art''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#31
+''A highly detailed close-up macro photograph of a translucent glass flower occupying the central vertical frame, measuring approximately 80% of the width. The flower consists of five large overlapping petals with smooth, oval contours, exhibiting a high-gloss transparent texture and subtle internal refractions in pale aquamarine with hints of iridescent blues and greens. The petals are two-thirds of the image height and one-third of the image width at their widest points. The central reproductive structure features slender transparent filaments with warm copper-toned spherical anthers, emerging from a textured greenish glass ovary. A slender green stem with a smooth matte finish extends from the bottom center, leading into the flower. A glossy green leaf with visible vein-like ridges is partially visible in the lower left quadrant. The background is a uniform softly diffused teal gradient, from deeper teal at the top to lighter teal at the bottom, with soft diffuse lighting creating gentle highlights and shadows, enhancing the flower's three-dimensionality. The camera perspective is eye level with a shallow depth of field, focusing on the central filaments and petals, with blurred edges for depth -v 6.1''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#32
+''a sealed glass jar with a metal lid, filled with large, delicate white chamomile flowers and glowing warm yellow fairy lights. The chamomile flowers are floating loosely inside the jar, not standing, with soft white petals and bright yellow centers, captured with natural textures. The lights wrap gently around the flowers, creating a magical glow inside the jar. The jar is placed against a deep black background with dramatic contrast, reflections on the glass, and soft shadows. Hyper-realistic, moody and elegant composition. --ar 3:4 --v70--quality 2''
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#33
+''A small clear glass capsule filled with white orchids, cherries, eucalyptus leaves, and lavender buds. The image has a promotional aesthetic with soft lighting and a shallow depth of field. Emphasis is placed on the beauty of the product and the details of the flowers.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.''",
+"#34
+''A highly detailed close-up macro photograph of a translucent glass flower occupying the central vertical frame, measuring approximately 80% of the width. The flower consists of five large overlapping petals with smooth, oval contours, exhibiting a high-gloss transparent texture and subtle internal refractions in pale aquamarine with hints of iridescent blues and greens. The petals are two-thirds of the image height and one-third of the image width at their widest points. The central reproductive structure features slender transparent filaments with warm copper-toned spherical anthers, emerging from a textured greenish glass ovary. A slender green stem with a smooth matte finish extends from the bottom center, leading into the flower. A glossy green leaf with visible vein-like ridges is partially visible in the lower left quadrant. The background is a uniform softly diffused teal gradient, from deeper teal at the top to lighter teal at the bottom, with soft diffuse lighting creating gentle highlights and shadows, enhancing the flower's three-dimensionality. The camera perspective is eye level with a shallow depth of field, focusing on the central filaments and petals, with blurred edges for depth -v 6.1
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

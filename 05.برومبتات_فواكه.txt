@@ -1,0 +1,70 @@
+{
+  "quotes": [
+"#1
+A realistic glass strawberry made of clear pink crystal with intricate seed details and realistic green leaves.
+The strawberry lies against a soft pink background, casting sharp, radiant reflections and shadows on the surface. Studio lighting highlights the glossy, reflective texture of the glass, creating a luxurious, dreamy atmosphere. The minimalist composition, pastel color palette, elegance, high-resolution rendering, and macro photography style.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#2
+A magical crystal or glass strawberry, gently asymmetrical and organic in shape, as if sculpted by nature. The surface is smooth, glowing from within, with pearlescent and iridescent reflections in soft pastel tones: warm rose pink, golden peach, opal white, and soft honey yellow. The texture resembles enchanted glass or fairy amber, with delicate, natural dimples like real strawberry seeds. Ethereal and elvish in style, like a fruit from a sacred forest or a gift from a woodland spirit. Isolated on a pure white background, minimal and clean, no shadows.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#3
+Perfect advertizing photo, isolated on soft pastel yellow background, intricate composition. A lemon half splashes into water, surrounded by delicate bubbles and subtle water ripples. Volumetric lighting and volumetric shadows remain unchanged, emphasizing the juicy texture and fresh details. The scene includes a few small white citrus blossoms near the fruit for refined compositional interest, maintaining hyper-photorealistic quality and sharp details.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#4
+Top-down view of bright yellow mango slices inside a clear, shiny,
+undamaged ziplock bag (zipper only), tilted about 15-
+25°; lying on a wet dark stone surface, with fresh water
+• splashes and mint leaves around, photorealistic vibrant look.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#5
+Overhead photo of bright green broccoli florets inside a clear, shiny ziplock bag (smooth texture, zipper seal only), angled 15-25°, resting on a dark stone surface, surrounded by fresh water splashes and scattered mint leaves, ultra-realistic photo style.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#6
+Hyper-realistic photo of a peeled mandarin made of translucent crystal glass. Each amber-orange segment glows from within, refracting light like gemstones. Frosted crystal peel curls back with glossy reflections. Juice vesicles are faceted like tiny amber beads, semi-liquid and glowing. A few loose segments rest on a reflective stone surface. Background: softly blurred luxury kitchen with golden tones and warm bokeh. Softbox and rim light enhance transparency. Shallow depth of field, 8K detail, magical and elegant mood.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#7
+Create a hyperrealistic CGI poster in a [xy] aspect ratio. The main subject is a [fruit], which should be a plush toy with soft, stylish fur, while all other parts like the stem and leaves are photorealistic. Use a tender color palette. The composition is minimalistic, set on a light background with soft, diffused lighting for a clean and stylish aesthetic.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#8
+Create a super-realistic CGI poster in a 16:9 aspect ratio. The main subject is an apple, a plush toy with soft, elegant fur, while all other parts, such as the stem and leaves, are realistic. Use a calming color palette. The design is minimalist, set against a light background with soft, diffused lighting for a sleek and understated aesthetic.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#9
+A colorful tornado made of banana slices, swirling in the air with splashes on a black background. The splash is white milk in color,
+• with banana pieces flying around it. Black plain background.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

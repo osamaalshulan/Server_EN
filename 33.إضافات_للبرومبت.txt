@@ -1,0 +1,73 @@
+{
+  "quotes": [
+"استخدم 100 ٪ من وجهه ، يجب أن يكون وجهك تمامًا مثل صورة السيلفي الأصلية - بدون تحرير أو تنقيح أو تنعيم. الحفاظ على جميع ملامح الوجه وملمس الجلد والتعبيرات",
+"Use 100% of his face, your face should be just like the original selfie - without editing, retouching or smothening. Maintain all facial features, skin texture and expressions",
+"While keeping her face and original features the same without changing his identity.",
+"Without glasses",
+"With sunglasses ",
+"With glasses ",
+"Without sunglasses",
+"حافظ على وجهه وملامحه الأصلية كما هي، دون تغيير هويته.",
+"استخدم 100 ٪ من وجوه كلاهم أعلى الصورة المحملة ، يجب أن يكون الوجوه تمامًا مثل صورة السيلفي الأصلية - بدون تحرير أو تنقيح أو تنعيم. الحفاظ على جميع ملامح الوجوه وملمس الجلد والتعبيرات",
+"@PixelLabProPlus in the lower left corner, designed with a small futuristic geometric line with a soft neon glow",
+"'In the lower left corner of the image, there's a tiny logo and text in a luxurious gold-yellow hue (simulating gold).
+
+The logo on the left is a small, intricately designed gold ''P'' with mechanical, gear-like elements. The ''P'' features small screws and fasteners, giving it a sleek, industrial feel. To the right of the logo is the text ''PixelLabProPlus'' in a footless font, also in a glossy gold color. The overall impression is professional and highlights both the ''Pro'' and ''Plus'' aspects of the name'.",
+"A horizontal, rectangular digital watermark should be placed in the lower-left corner of the workspace.  The watermark should have a background of a dark blue, semi-transparent (slightly opaque) rectangular stripe in color #000255.  On this stripe, the text 'PixelLabProPlus' should appear in a stylish, modern, sans-serif font and in small print.  The text should be in a luxurious, gold-yellow color (similar to gold). Make the entire watermark have smooth edges and a professional, polished look. Keep the watermark very small. ",
+"A horizontal, rectangular digital watermark should be placed in the lower-left corner of the workspace.  The watermark should have a background of a semi-transparent (slightly opaque) dark blue rectangular stripe #000255.  On this stripe, the text 'PixelLabProPlus' appears in a stylish, modern (sans-serif) font and lowercase letters.  To the left of the text is a small logo: a miniature ''P'' with an intricate design. The ''P'' features tiny screws and gear-like fasteners within the letter itself.  The text and logo should be a luxurious gold-yellow color (emulating gold). Give the entire watermark a smooth, professional, and polished appearance. Keep the watermark very small. ",
+"يجب وضع علامة مائية رقمية أفقية في الزاوية السفلية اليسرى من مساحة العمل. يجب أن تحتوي العلامة المائية على خلفية من شريط أزرق داكن شفاف. مع زوايا مستديرة، مما يعطيها مظهرا أكثر سلاسة ونعومة. مع حواف ذهبية رقيقة (Stroke) تحيط بالبروفال، مما يسلط الضوء على العلامة بشكل أكثر وضوحا. في هذا الشريط، يظهر النص ''PixelLabProPlus'' خطا أنيقا وحديثا (sans-serif) وأحرف صغيرة. على يسار النص يوجد شعار صغير: ''P'' بتصميم معقد. يتميز ''P'' بأظافر صغيرة ومثبتات تشبه التروس داخل الحرف نفسه. يجب أن يكون النص والشعار بلون أصفر ذهبي فاخر (يحاكي الذهب). اجعل الخط والشعار يملأان المنطقة الدائرية بشكل أفضل، ويظهر اللون الذهبي في النص والشعار أكثر إشراقا ووضوحا (أكثر ''مصقولا''). امنح العلامة المائية بأكملها مظهرا سلسا ومحترفا.
+اجعل العلامة المائية صغيرة جدا.",
+"
+A horizontal digital watermark must be placed in the lower left corner of the workspace. The watermark should have a background of a transparent dark blue stripe. With rounded angles, giving it a smoother and smoother appearance. With thin golden edges (Stroke) surrounding the prowal, highlighting the sign more clearly. In this ribbon, the text ''PixelLabProPlus'' shows a stylish and modern font (sans-serif) and lowercase letters. To the left of the text is a small logo: ''P'' with a complex design. ''P'' features small nails and gear-like fixers within the letter itself. The text and logo should be in a luxurious golden yellow color (simulates gold). Make the font and logo fill the circular area better, and the golden color in the text and logo appears brighter and clearer (more ''polished''). Give the entire watermark a smooth and professional look. 
+Make the watermark very small.",
+"Delete only the face and head from the image in high resolution, and leave their place transparent (Transparent) without details or texture, while maintaining the ghutra/shawl (if any) exactly as it is and the rest of the body without any modification.
+
+And output the result in PNG format with a transparent background.”",
+"Insert a micro watermark ''Pinterest | @qqyy_y'', semi-transparent, embedded within light 
+highlights and bokeh areas, naturally blended, very small scale.",
+"ultra sharp focus, professional lighting, high dynamic range, masterpiece quality.",
+"أضف علامة مائية صغيرة جدًا ''Pinterest | @qqyy_y''، شبه شفافة، مدمجة داخل مناطق الإضاءة والظلال، ممزوجة بشكل طبيعي، بحجم صغير جدًا.",
+"تركيز فائق الحدة، إضاءة احترافية، نطاق ديناميكي عالٍ، جودة تحفة فنية.",
+"احذف الوجه والرأس فقط من الصورة بدقة عالية، واترك مكانهما شفافاً (Transparent) بدون تفاصيل أو ملمس، مع المحافظة على الغترة/الشال ( إن وجد )كما هو تماماً وباقي الجسم بدون أي تعديل.
+وأخرج النتيجة بصيغة PNG بخلفية شفافة.”",
+"،في الزاوية السفلية على اليسار من مساحة العمل، يوجد نص/توقيع صغير أنيق مكتوب بخط اليد باللون الأبيض يقول 'PixelLab Pro Plus'.",
+"،في الزاوية السفلية على اليسار من مساحة العمل، يوجد نص/توقيع صغير أنيق مكتوب بخط اليد يقول 'PixelLab Pro Plus'.",
+"، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature in white that reads 'PixelLab Pro Plus'.",
+"، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"إكتب لي ال prompt الخاص بالصورة",
+"لخص لي ال prompt الخاص بالصورة",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

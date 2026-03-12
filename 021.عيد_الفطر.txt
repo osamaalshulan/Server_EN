@@ -1,0 +1,276 @@
+{
+  "quotes": [
+"↑￼↑ #1
+{
+''title'': ''A Luxurious Eid Interior Scene with Personal Image Integration'',
+
+''description'': ''Create a sophisticated Eid greeting image inspired by a luxurious and contemporary interior. The scene features a wall with a gradient of navy and emerald purple, soft studio lighting, and elegant shadows. On the right, place a large golden crescent moon sculpture adorned with delicate Islamic geometric patterns, set on a circular platform. Around the base, add warm, glowing Eid lanterns, small golden light balls, an incense burner (makhara) with rising incense smoke, Eid sweets to create a festive atmosphere, and a collection of colorful balloons to suggest a special occasion or celebration. On the left, add a modern navy velvet chair and a simple planter to balance the ambiance. The phrase ''عيد مبارك'' is written in elegant Arabic calligraphy in cream or gold on the wall, with ''Eid Mubarak'' and ''كل عام وانتم بخير'' below in a stylish, contemporary font. The overall atmosphere should be luxurious, serene, elegant, and spiritually uplifting.'',
+
+''personal_image_integration'': {
+''reference_image'': ''Attached portrait''
+
+''Position'': ''Place the person seated on the blue chair.''
+
+''Pose'': ''Stand confidently in a soft, natural pose, with your gaze slightly directed towards the camera.''
+
+''Outfit'': {
+
+''Style'': ''Traditional Algerian attire.''
+
+''Option for Men'': ''An elegant Algerian karakou or gandoura with traditional embroidery and intricate details.''
+
+''Option for Women'': ''A traditional Algerian djellaba, modest and culturally authentic.''
+
+''Colors'': ''Cream white, royal blue, burgundy, or cream with gold accents.''
+
+''Lighting'': ''Make the lighting consistent with studio lighting, with soft, warm reflections from decorative lights on the outfit.''
+
+''Combination'': ''Ensure realistic shadows under the feet and an appropriate perspective scale to match the environment. No visible cut edges.''
+
+},
+
+''Style'': {
+''Display Quality'': ''Ultra Realistic 8K'',
+
+''Lighting Type'': ''Soft Cinematic Studio Lighting with Warm Glow'',
+
+''Color Palette'': ''Dark Blue, Emerald Purple, Matte Gold, Warm White Lighting'',
+
+''Overall Atmosphere'': ''Elegant, Sophisticated, and Spiritual Festive Atmosphere'',
+
+''Camera'': ''Slightly Wide Interior Composition, Shallow Depth of Field''
+
+},
+
+''Technical Details'': {
+''Aspect Ratio'': ''1:1'',
+
+''Resolution'': ''4096 x 4096'',
+
+''Sharp Focus'': True,
+
+''High Texture Detail'': True,
+
+''No Distortion'': True
+
+}
+Note: The outfit consists of a full white robe, a beige vest, a traditional Yemeni dagger, and a dark red ghutra draped over the shoulders in intricate patterns.
+
+Use your full facial features; your face must be an exact match to the original image—no retouching, editing, or smoothing. Preserve all facial features, skin texture, and expressions.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #2
+{
+''title'': ''A Luxurious Eid Interior Scene with Personal Image Integration'',
+
+''description'': ''Create a sophisticated Eid greeting image inspired by a luxurious and contemporary interior. The scene features a wall with a gradient of navy and emerald purple, soft studio lighting, and elegant shadows. On the left side, place a large golden crescent moon sculpture adorned with delicate Islamic geometric patterns, positioned on a circular platform. Around the base, add warm, glowing Eid lanterns, small golden light balls, an incense burner (makhara) with rising incense smoke, Eid sweets to create a festive atmosphere, and a collection of colorful balloons to suggest a special occasion or celebration. On the right side, add a modern velvet chair in navy and a simple planter to balance the ambiance. The phrase ''عيد سعيد'' is written in elegant Arabic calligraphy in cream or gold on the wall, with ''Eid Said'' and ''كل عام وأنتم بخير'' below in a stylish, contemporary font. The overall atmosphere should be luxurious, serene, elegant, and spiritually uplifting.'',
+
+''personal_image_integration'': {
+''reference_image'': ''Attached portrait''
+
+''Position'': ''Place the person seated on the blue chair.''
+
+''Pose'': ''Stand confidently in a soft, natural pose, with your gaze slightly directed towards the camera.''
+
+''Outfit'': {
+
+''Style'': ''Traditional Algerian attire.''
+
+''Option for Men'': ''An elegant Algerian karakou or gandoura with traditional embroidery and intricate details.''
+
+''Option for Women'': ''A traditional Algerian djellaba, modest and culturally authentic.''
+
+''Colors'': ''Cream white, royal blue, burgundy, or cream with gold accents.''
+
+''Lighting'': ''Make the lighting consistent with studio lighting, with soft, warm reflections from decorative lights on the outfit.''
+
+''Combination'': ''Ensure realistic shadows under the feet and an appropriate perspective scale to match the environment. No visible cut edges.''
+
+},
+
+''Style'': {
+''Display Quality'': ''Ultra Realistic 8K'',
+
+''Lighting Type'': ''Soft Cinematic Studio Lighting with Warm Glow'',
+
+''Color Palette'': ''Dark Blue, Emerald Purple, Matte Gold, Warm White Lighting'',
+
+''Overall Atmosphere'': ''Elegant, Sophisticated, and Spiritual Festive Atmosphere'',
+
+''Camera'': ''Slightly Wide Interior Composition, Shallow Depth of Field''
+
+},
+
+''Technical Details'': {
+''Aspect Ratio'': ''1:1'',
+
+''Resolution'': ''4096 x 4096'',
+
+''Sharp Focus'': True,
+
+''High Texture Detail'': True,
+
+''No Distortion'': True
+
+}
+Note: The outfit consists of a full white robe, a beige vest, a traditional Yemeni dagger, and a dark red ghutra draped over the shoulders in intricate patterns.
+
+Use your full facial features; your face must be an exact match to the original image—no retouching, editing, or smoothing. Preserve all facial features, skin texture, and expressions.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #3
+{''title'': ''A Luxurious Eid Al-Fitr Interior Scene with Personal Image Integration'',
+''description'': ''Create a sophisticated Eid greeting image inspired by a luxurious and contemporary interior. The scene features a wall with a gradient of navy and emerald purple, soft studio lighting, and elegant shadows. On the right, place a large golden crescent moon sculpture adorned with delicate Islamic geometric patterns, set on a circular platform. Around the base, add warm, glowing Eid lanterns, small golden light balls, an incense burner (makhara) with rising incense smoke, Eid sweets to create a festive atmosphere, and a collection of colorful balloons to suggest a special occasion or celebration. On the left, add a contemporary navy velvet chair and a simple planter to balance the ambiance. The phrase ''عيد مبارك'' is written in elegant Arabic calligraphy in cream or gold on the wall, with ''Eid Mubarak'' and ''كل عام وانتم بخير'' below in a stylish, modern font. The overall atmosphere should be luxurious, serene, elegant, and spiritually uplifting.'',
+''personal_image_integration'': {''reference_image'': ''Attached portrait''
+''Position'': ''Place the person seated on the blue chair. They should be holding an incense burner (or censer) from which rising incense smoke is emanating, a symbol of generosity and hospitality in Arab culture.
+''Pose'': ''Stand confidently in a soft, natural pose, looking slightly towards the camera.''
+''Outfit'': {
+''Style'': ''Traditional Algerian attire.''
+''Option for men'': ''An elegant Algerian karakou or gandoura with traditional embroidery and intricate details.''
+''Option for women'': ''A traditional Algerian djellaba, modest and culturally authentic.''
+''Colors'': ''Creamy white, royal blue, burgundy, or cream with gold accents.''
+''Lighting'': ''Make the lighting synchronized with studio lighting, with soft, warm reflections from decorative lights on the outfit.''
+''Blend'': ''Ensure realistic shadows under the feet and an appropriate perspective scale to match the environment.'' No visible cut edges.
+
+Style: Display Quality: 8K Ultra Realistic
+Lighting Type: Soft Cinematic Studio Lighting with Warm Glow
+Color Palette: Dark Blue, Emerald Purple, Matte Gold, Warm White
+Overall Mood: Elegant, Sophisticated, and Spiritual Festive Atmosphere
+Camera: Slightly Wide Interior Composition, Shallow Depth of Field
+
+Technical Details: Aspect Ratio: 1:1
+Resolution: 4096 x 4096
+Focus: True
+High Texture Detail: True
+No Distortion: True
+Note: The outfit consists of a full white thobe, beige vest, traditional Yemeni dagger, and a dark red ghutra draped over the shoulders in intricate patterns.
+Use your full facial features; your face must be an exact match to the original image—no editing, retouching, or smoothing. Keep all Facial features, skin texture, and expressions.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #4
+{''title'': ''A Luxurious Eid Interior Scene with Personal Image Integration'',
+''description'': ''Create a sophisticated Eid greeting image inspired by a luxurious and contemporary interior. The scene features a wall with a gradient of navy and emerald purple, soft studio lighting, and elegant shadows. On the left, place a large golden crescent moon sculpture adorned with delicate Islamic geometric patterns, positioned on a circular pedestal. Around the base, add warm, glowing Eid lanterns, small golden light balls, an incense burner (makhara) with rising incense smoke, Eid sweets to create a festive atmosphere, and a collection of colorful balloons to suggest a special occasion or celebration. On the right, add a modern navy velvet chair and a simple planter to balance the ambiance. The phrase ''عيد مبارك'' is written in elegant Arabic calligraphy in cream or gold on the wall, with ''Eid Mubarak'' and ''كل عام وأنتم بخير'' below in a stylish, contemporary font. The overall atmosphere should be luxurious, serene, elegant, and spiritually uplifting.'',
+''personal_image_integration'': {''reference_image'': ''Attached portrait''
+''Position'': ''Place the person seated on the blue chair. They should be holding an incense burner (or censer) from which rising incense smoke is emanating, a symbol of generosity and hospitality in Arab culture.
+''Pose'': ''Stand confidently in a soft, natural pose, looking slightly towards the camera.''
+''Outfit'': {
+''Style'': ''Traditional Algerian attire.''
+''Option for men'': ''An elegant Algerian karakou or gandoura with traditional embroidery and intricate details.''
+''Option for women'': ''A traditional Algerian djellaba, modest and culturally authentic.''
+''Colors'': ''Creamy white, royal blue, burgundy, or cream with gold accents.''
+''Lighting'': ''Make the lighting synchronized with studio lighting, with soft, warm reflections from decorative lights on the outfit.''
+''Blend'': ''Ensure realistic shadows under the feet and an appropriate perspective scale to match the environment.'' No visible cut edges.
+
+Style: Display Quality: 8K Ultra Realistic
+Lighting Type: Soft Cinematic Studio Lighting with Warm Glow
+Color Palette: Dark Blue, Emerald Purple, Matte Gold, Warm White
+Overall Mood: Elegant, Sophisticated, and Spiritual Festive Atmosphere
+Camera: Slightly Wide Interior Composition, Shallow Depth of Field
+
+Technical Details: Aspect Ratio: 1:1
+Resolution: 4096 x 4096
+Focus: True
+High Texture Detail: True
+No Distortion: True
+Note: The outfit consists of a full white thobe, beige vest, traditional Yemeni dagger, and a dark red ghutra draped over the shoulders in intricate patterns.
+Use your full facial features; your face must be an exact match to the original image—no editing, retouching, or smoothing. Keep all Facial features, skin texture, and expressions.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #5
+High-resolution, realistic rendering of the same person from the reference photo. Use 100% of their face; your face should be exactly like the original selfie—no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions. The subject appears in a calm, festive setting. They seem to be in a meditative or focused pose, looking down at their hands.
+
+Key element: They hold an incense burner (makhara) from which steam or smoke from incense rises, a symbol of generosity and hospitality in Arab culture.
+
+Background and lighting: A collection of colorful balloons (red, white, and black) appears in the background, suggesting an occasion or celebration. The lighting leans towards purple and blue, giving the image a modern and serene feel.
+
+Photographic technique: Analyze how the colored lighting and balloons are used to create a contrast between tradition and modernity.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #6
+High-resolution, realistic rendering of the same person from the reference photo. 100% of their face is used; your face must be exactly like the original selfie—no editing, retouching, or smoothing. All facial features, skin texture, and expressions are preserved. ''Attire'': {
+''Style'': ''Traditional Yemeni attire.''
+
+A choice for men: a full white thobe, beige formal jacket, traditional Yemeni dagger (jambiya), and dark red ghutra draped over the shoulders in intricate patterns.
+
+''A choice for women'': ''A traditional Yemeni jalabiya, modest and culturally authentic.''
+
+''Colors'': ''Creamy white, royal blue, burgundy, or cream with gold accents.''
+
+Appears in a calm, festive setting. Looks in a meditative or contemplative pose, gazing downwards towards their hands.
+
+Key element: Holding an incense burner (mabkhara) from which steam or smoke from incense rises, a symbol of generosity and hospitality in Arab culture.
+
+Background and Lighting: A collection of colorful balloons (red, white, and black) appears in the background, suggesting an occasion or celebration. The lighting leans towards purple and blue, giving the image a modern and serene feel.
+
+Photographic Art: An analysis of how colored lighting and balloons are used to create a contrast between tradition and modernity.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #7
+A high-quality, professional-looking photo of the same person from the reference image. 100% of their face should be used; your face must be exactly like the original selfie—no editing, retouching, or smoothing. All facial features, skin texture, and expressions must be preserved. They wear a stylish mustard-colored jacket over a traditional black shirt. Around their waist, an ornate traditional Yemeni dagger (jambiya) hangs in a leather sheath. They hold a luxurious, gold-plated perfume bottle, from which they release a fine mist. They wear several silver rings set with dark stones and a classic wristwatch. The background is entirely black, creating high contrast and a sophisticated look. Cinematic lighting, sharp focus, 8K resolution, and a sophisticated atmosphere.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #8
+A high-quality, professional-looking photograph of the same person from the reference image. The entire face must be used; your face must be an exact match to the original image—no retouching, editing, or smoothing. All facial features, skin texture, and expressions must be preserved. The person wears a stylish mustard-colored jacket over a traditional black shirt. Around their waist, an ornate traditional Yemeni dagger (khaymbeya) hangs in a leather sheath. They wear several silver rings set with dark stones and a classic wristwatch. The background is entirely black, creating high contrast and a sophisticated look. Cinematic lighting, sharp focus, 8K resolution, and a refined atmosphere are essential.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"#9
+A high-quality 3D digital illustration for an Eid greeting card. The scene features a clean, minimalist 3D environment with a soft gradient background transitioning from a light teal sky at the top to a warm orange-tan ground. At the bottom, a stylized golden 3D 'Eid Cannon' (Midfa al-Iftar) with large wooden wheels sits next to a large, glossy golden 3D crescent moon. Floating in the sky are several colorful 3D balloons in red, green, and gold, along with glowing fairy light strings at the very top. The central focus is the artistic Arabic calligraphy 'عيد سعيد' rendered in a thick, rounded brown 3D font with small teal and red decorative accents underneath. Below the Arabic, the words 'EID SAEED' are written in a simple brown sans-serif font. The lighting is soft and bright, creating a cheerful and modern festive atmosphere. 8k resolution, ultra-sharp focus, and smooth 3D textures.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+2:3",
+"#10
+A high-quality 3D digital illustration for an Eid greeting. The scene features a vibrant light-blue wall with a large, bright red wooden window frame that is wide open. A cluster of colorful 3D balloons in shades of red, blue, green, and pink is artistically floating out of the window into the room. Small, soft white 3D clouds are scattered both inside and outside the window frame, adding a whimsical touch. Above the window, the Arabic greeting 'عيد فطر مبارك' is written in a clean, modern navy-blue Kufic-style font, perfectly centered. Below the text, the text 'كل عام وانتم بخير' is written in small, simple capital letters. The lighting is bright and cheerful, creating soft shadows and a clean, minimalist 3D aesthetic. 8k resolution, ultra-sharp focus, and smooth, realistic textures. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#11
+A charming and high-quality 2D digital illustration of two cute Chibi-style children celebrating Eid. On the left, a young girl with long brown wavy hair wears a traditional white dress with intricate colorful embroidery and a matching headband, smiling joyfully. On the right, a young boy with styled brown hair wears a white traditional Thobe with grey embroidery, holding a plate of colorful Eid sweets and a traditional lantern (Fanous). Between them are jars of colorful candies and wrapped gift boxes. The scene is framed by a black Islamic arch silhouette. Hanging from the top are golden lanterns, stars, and crescent moons. The central Arabic text 'عيد فطر سعيد' is rendered in a soft, rounded golden 3D font with a thin brown outline. The background is clean white, creating a bright and festive atmosphere. Ultra-sharp lines, vibrant colors, and a premium sticker-art aesthetic. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.3:4",
+"#12
+A charming and high-quality 2D digital illustration of two cute Chibi-style children celebrating Eid. On the left, a young girl with long brown wavy hair wears a traditional white dress with intricate colorful embroidery and a matching headband, smiling joyfully. On the right, a young boy with styled brown hair wears a white traditional Thobe with grey embroidery, holding a plate of colorful Eid sweets and a traditional lantern (Fanous). Between them are jars of colorful candies and wrapped gift boxes. The scene is framed by a black Islamic arch silhouette. Hanging from the top are golden lanterns, stars, and crescent moons. The central Arabic text 'عيدكم مبارك' is rendered in a soft, rounded golden 3D font with a thin brown outline. The background is clean white, creating a bright and festive atmosphere. Ultra-sharp lines, vibrant colors, and a premium sticker-art aesthetic. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.3:4",
+"#13
+A breathtaking, high-end 3D digital illustration for an Eid Mubarak greeting. The central focus is a large, majestic golden crescent moon featuring intricate Islamic geometric engravings, glowing warmly. Beside it, a cluster of glossy metallic gold and cream balloons floats elegantly. In the foreground, several beautifully wrapped gift boxes in white and gold with silk ribbons are arranged alongside traditional ornate golden lanterns (Fanous) emitting a soft candle glow. Tiny sparkling fairy lights are scattered across the floor, creating a magical ambiance. The backdrop features a soft-focus silhouette of mosque minarets against a warm, golden sunrise sky filled with glowing bokeh particles. Centered on a white rectangular plaque is the artistic Arabic calligraphy 'عيد فطر سعيد' in a fluid golden script with a small pink heart accent. Below it, 'Eid Mubarak' is written in a sophisticated 3D golden serif font. 8k resolution, ultra-sharp focus, and photorealistic textures with premium cinematic lighting. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#14
+A premium, minimalist lifestyle digital illustration for an Eid al-Fitr greeting card. The scene is set against a clean white wall with soft, natural sunlight shadows of leaves dancing across it. In the bottom left, a sophisticated still-life arrangement features a beige stone pedestal holding a frosted glass vase with delicate white flowers, alongside minimalist ceramic candle holders. A small arched wooden frame with an Arabic 'Eid' greeting sits on the table. The central focus is the elegant, thin Arabic calligraphy 'عيد مبارك' floating in the middle-ground. Below it, a clean typography block in brown ink reads: 'أهنئكم بعيد الفطر المبارك، سائلين المولى أن يعيده علينا وعليكم أعواماً عديدة وأزمنة مديدة باليمن والبركات'. The entire composition uses a warm, neutral color palette of cream, beige, and soft brown. High-end aesthetic, 8k resolution, ultra-sharp focus, and a professional interior design vibe. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#15
+A high-end, elegant digital illustration for an Eid al-Fitr greeting card. The central masterpiece is a large, ornate golden crescent moon with intricate Islamic filigree patterns, glowing softly. A cluster of glossy 3D balloons in metallic gold and pearlescent white is artistically floating behind the moon. A traditional ornate golden lantern (Fanous) hangs from the moon's upper tip, emitting a warm, inviting light. In the background, a silhouette of a mosque with domes and minarets is visible in a golden glow. The entire scene is set against a soft, dreamy watercolor-style background with grey and gold ink splashes and sparkling bokeh lights. At the bottom, elegant Arabic calligraphy in bronze ink reads: 'أهنئكم بحلول عيد الفطر المبارك، تقبل الله منا ومنكم صالح الأعمال'. Below it, a stylish cursive script reads: 'كل عام وأنتم بخير' with a small orange heart icon. The lighting is ethereal and sophisticated, featuring 8k resolution and photorealistic textures. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#16
+A stunning, high-end 3D digital illustration for an Eid Mubarak greeting. The foreground features a luxurious spread of Arabic hospitality: two ornate golden coffee pots (Dallah) with intricate engravings, a white ceramic coffee cup on a saucer, a golden plate piled high with premium dates, and wrapped gift boxes with large satin ribbons. A cluster of glossy black and gold balloons with star patterns floats on the left. The background showcases a breathtaking white mosque with grand domes and tall minarets under a soft, clear morning sky. In the lower section, on a clean white background, the artistic Arabic calligraphy 'عيد مبارك' is rendered in a bold, modern brown font. Below it, 'EID MUBARAK' is written in a clean, uppercase sans-serif font. The lighting is bright and natural, creating a premium, celebratory, and photorealistic atmosphere. 8k resolution, ultra-sharp focus, and exquisite textures. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#17
+A sophisticated and elegant digital greeting card for Eid. The design features a warm beige or cream-colored fabric-textured background. At the top, a semi-circular decorative element with intricate floral embroidery patterns and small hanging tassels is centered. In the middle, the Arabic word 'عيد فطر مبارك' is written in a large, fluid, and artistic dark-red calligraphy. Below it, '1 شوال 1447هـ' is written in a matching thin calligraphic script. The bottom of the image is adorned with beautiful, highly detailed 3D embroidered flowers in shades of dark red, white, and green, with a small embroidered butterfly on the left. The lighting is soft and even, highlighting the realistic thread textures and the premium, traditional aesthetic. 8k resolution, ultra-sharp focus, and photorealistic embroidery details. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.3:4",
+"#18
+A sophisticated and elegant digital greeting card for Eid. The design features a warm beige or cream-colored fabric-textured background. At the top, a semi-circular decorative element with intricate floral embroidery patterns and small hanging tassels is centered. In the middle, the Arabic word 'عيدكم مبارك' is written in a large, fluid, and artistic dark-red calligraphy. Below it, 'كل عام وانتم بخير' is written in a matching thin calligraphic script. The bottom of the image is adorned with beautiful, highly detailed 3D embroidered flowers in shades of dark red, white, and green, with a small embroidered butterfly on the left. The lighting is soft and even, highlighting the realistic thread textures and the premium, traditional aesthetic. 8k resolution, ultra-sharp focus, and photorealistic embroidery details. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.3:4",
+"#19
+A premium and elegant digital greeting card for Eid al-Fitr. The background features a clean, light-grey fabric texture. The typography is the central focus: at the top, a large and artistic Arabic calligraphy of the word 'عيد سعيد' is rendered in a sophisticated dark grey. Below it, a formal greeting in a traditional Naskh-style font reads: 'أهنئكم بعيد الفطر السعيد أعاده الله علينا وعليكم بالخير'. Followed by: 'أدام الله أعيادكم بقرب من تحبون وتقبل الله صيامكم وقيامكم'. At the bottom of the text block, a beautiful, fluid calligraphy of 'كل عام وأنتم بخير' is displayed. The bottom of the card is adorned with a soft, ethereal arrangement of semi-transparent pink and white flowers, including delicate lilies and wildflowers, creating a peaceful and high-end aesthetic. The lighting is soft and airy, with 8k resolution and ultra-sharp details on both the typography and the floral elements. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#20
+A premium and ethereal digital greeting card for Eid. The background is a clean, off-white paper texture with a very soft, airy feel. The typography is centered and artistic: a sophisticated teal-grey Arabic calligraphy of 'عيد مبارك' is layered with a gold-accented English 'Eid Mubarak' script. Below it, the phrase 'كل عام وأنتم بخير' is written in a simple, elegant black font. The bottom of the card is adorned with a delicate arrangement of soft teal-blue poppies and wildflowers, with three small, detailed butterflies in the same teal and white shades fluttering around the blooms. The lighting is bright and serene, creating a modern, high-end minimalist aesthetic. 8k resolution, ultra-sharp focus on the floral details, and professional graphic design quality. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#21
+A premium, minimalist digital greeting for Eid al-Fitr. The background is a clean, off-white paper texture with a sophisticated layout. In the upper right corner, a large dark-maroon circular element is partially visible, balanced by a light grey watermark of Arabic calligraphy in the bottom left. From the top, delicate line-art illustrations of hanging lanterns (Fanous), stars, and crescent moons are displayed in a clean dark-grey style. The central focus is the artistic Arabic calligraphy 'عيدكم مبارك' rendered in a bold, elegant dark-grey font. Below it, the phrase 'أهنئكم بحلول عيد الفطر المبارك وكل عام وأنتم بخير' is written in a modern, clean black sans-serif font. In the lower section, a dark-maroon decorative arched button with a golden border is centered. The lighting is bright and airy, creating a professional and high-end graphic design aesthetic. 8k resolution, ultra-sharp vector-like focus, and perfectly balanced composition. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 2:3",
+"#22
+A premium, sophisticated digital greeting for Eid al-Fitr with a unique traditional-modern fusion. The background is a crisp white paper texture with soft, natural sunlight shadows. The design features vertical rectangular strips of highly detailed red Persian carpet patterns with intricate floral and geometric motifs. One strip is placed at the top right, and another smaller one at the bottom center. The central focus is an exquisite black Arabic calligraphy of 'عيد سعيد' in a fluid, elongated script with two deep-red dots at the bottom. Below it, the text reads: 'أهنئكم بحلول عيد الفطر المبارك، تقبل الله منا ومنكم صالح الأعمال، وكل عام وأنتم بخير' in a clean, modern dark-red font. Small decorative elements, including a thin vertical line with a circular Persian rug ornament, add a professional touch. 8k resolution, ultra-sharp focus on the rug textures and calligraphy, and a high-end minimalist aesthetic. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#23
+A premium, minimalist digital greeting for Eid. The design is entirely monochromatic, featuring a clean white background with a subtle, high-quality floral watermark pattern of large blooming peonies covering the top and bottom sections. Centered in the middle is the elegant Arabic calligraphy 'كل عام وأنتم بخير' in a thin, sophisticated black font. Below it, a meaningful religious greeting is written in a clean, modern grey sans-serif font: 'جعل الله عيدكم فرحاً بأعمال قبلت وذنوب محيت ودرجات رفعت ورقاب عتقت'. The layout is spacious and airy, creating a high-end, peaceful, and spiritual aesthetic. 8k resolution, ultra-sharp vector-like focus on the typography, and a professional minimalist graphic design vibe. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"#24
+A breathtaking, high-end minimalist digital greeting card for Eid. The background is a macro close-up of pure white, velvety rose petals or delicate crepe fabric, showing extreme detail in the organic ridges, soft shadows, and translucent textures. Centered on this rich texture is an elegant Arabic calligraphy of 'عيدكم مبارك' rendered in a sophisticated taupe or warm-grey tone. Below the Arabic, the words 'Eid Mubarak' are written in a clean, modern serif font. The lighting is soft and directional, creating a gentle play of light and shadow that emphasizes the 3D feel of the petals and the premium, serene atmosphere. 8k resolution, ultra-sharp focus on the texture, and a luxury boutique aesthetic. ، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'. 3:4",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

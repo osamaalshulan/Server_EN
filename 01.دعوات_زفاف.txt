@@ -1,0 +1,124 @@
+{
+  "quotes": [
+"↑￼↑ #1 *******
+A highly professional and precise design for a vertical wedding invitation poster.
+
+Background: A soft, warm color gradient between white and beige. On the far left, a faint, semi-transparent image of the groom's face appears. Soft, light, Palm leaves resemble patterns float in the upper right.
+
+Personal Images and Visual Effects (with extreme precision):
+
+Main Image (Center to Left): A realistic image using 100% of his face; your face must be exactly like the original selfie—no editing, retouching, or smoothing. Maintain all facial features, skin texture, and expressions. The person looks slightly up and to the right with a confident and calm expression. Close-up, from the chest up, he wears an elegant, pristine white traditional thobe with prominent and clear shoulders. He has crossed dark brown/black leather chest harnesses adorned with metallic gold accents and a central decorative piece set with an amber-colored stone. In the foreground, he wears wide dark brown/black leather cuffs, a gold/silver wristwatch on his left hand, and a ring. His hand rests firmly on the handle of a curved traditional Yemeni dagger (Jambiya) made of dark leather and adorned with intricate gold details. The skin is clear. No shawl.
+
+Secondary Image (Inner Right Part): A very small image, 5% of the size, without a frame or background, placed in the middle of the person's right arm, from the waist up, of the same person. Use his full face, matching the original image. He looks directly at the camera. He wears a pristine white thobe with prominent and clear shoulders, a dark black shawl/cover on his shoulders, and crossed leather chest harnesses.
+
+Visual Effect (Dispersion Mask) for the Main Image:
+1.	Style & Appearance
+◦	Dispersion Type: The effect takes the form of an 'Ink Splatter' or coarse brush strokes (Grunge Brushes). It is not geometric dispersion (like pixels or polygons), but a random and free dispersion resembling liquid or ash scattering in the air.
+◦	Motion Gradient: The dispersion appears to move from the left of the image to the right. The effect begins dense and connected to the person's body, then gradually breaks into scattered spots and droplets that decrease in size as they move away from the body and fade into the white background.
+2.	Color Dynamics
+◦	The effect here is realistic and connected to the element; it is based on replicating the person's own colors. The scattered parts on the right take the dense black color from the shawl he is wearing, while the lower parts take grayish colors. This color consistency gives a genuine impression that the person's body or clothes are scattering.
+3.	Placement in the Design
+◦	Primary Focus: It is heavily concentrated on the right side of the small image (the bottom half image) to hide the sharp edge of the image cut and integrate it artistically with the plain background. The effect also appears below the large main image (at the area of the hands and the dagger/Jambiya) of the main person, as a base of support where the person's edges (hands) fade.
+◦	Secondary Focus: The effect also appears below the large main image (at the area of the hands and the dagger/Jambiya), as a base of support where the bottom edges of the image fade instead of having a sharp cut line.
+4.	Artistic Purpose of the Effect
+◦	Breaking Monotony: Avoid sharp cuts (Hard Edges) for personal images within posters.
+◦	Visual Direction: The dispersion extending to the right fills the white space in the poster in a balanced way, guides the viewer's eye towards the center of the design, and imparts a cinematic and modern (Modern) character.
+Typography and Text Formatting (Arabic and English):
+
+Top Center: The word 'wedding' written in a thin, elegant, connected brown font.
+
+Top Left (Vertical Text): Two parallel lines of text vertically (read from top to bottom).
+•	Inner Line: Dark brown Arabic text: اسامة نجيب الشرعبي
+•	Outer Line: Small brown English text for the same name in English.
+Bottom Right (Date Block):
+•	Large, bold dark gray/dark blue number: '25'.
+•	Immediately to its left, a vertical brown rectangular badge containing the white text: '2026/12'.
+◦	To the left of that, the Arabic text in dark gray/dark blue: المقيل (Top) and والحناء (Bottom).
+◦	Below this block, inside a white rectangular box with thin brown borders, the Arabic text is written in brown: صالة : بيكسلاب برو بلاس.
+Bottom Left (Details): Lines of clear dark gray/dark blue Arabic copy text:
+•	First Line: الزفة : الخميس 2026/12/26
+•	Second Line: صالة بيكسلاب برو بلاس - شارع المصممين
+Far Left Edge: Small brown vertical text reading upwards: اسامة للإعلان | 771588068 next to a small square block.
+
+Lighting and Atmosphere:
+
+Bright, soft cinematic studio lighting around the subject. High contrast in the ink splatter effect. Luxurious and modern aesthetic, extremely realistic clarity.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+
+Length 3000 : Width 2000
+2:3",
+"↑￼↑ #2 *******
+A highly professional and precise design for a vertical wedding invitation poster.-----Background: A soft, warm color gradient between white and beige. On the far left, a faint, semi-transparent image of the groom's face appears. Soft, light, Palm leaves resemble engravings float in the upper right.-----Personal Image and Visual Effects (with extreme precision):
+
+Main Image (Center to Left): A realistic image using 100% of his face; your face must be exactly like the original selfie - no editing, retouching, or smoothing. Maintain all facial features, skin texture, and expressions. The person looks slightly up and to the right with a confident and calm expression. Close-up from the chest up, wearing an elegant, crisp white traditional thobe with prominent, clear shoulders. Dark brown/black leather crossed chest harnesses adorned with metallic gold accents and a central decorative piece set with an amber-colored stone. In the foreground, he wears wide dark brown/black leather cuffs, a gold/silver wristwatch on his left hand, and a ring. His hand rests firmly on the hilt of a curved traditional Yemeni dagger (Jambiya) made of dark leather and decorated with intricate gold details. The skin is clear. No shawl.
+
+Visual Effect (Dispersion Mask) for the Main Image:
+1.	General Look and Style (Style & Appearance)
+◦	Dispersion Type: The effect takes the form of an 'Ink Splatter' or rough 'Grunge Brushes.' It is not geometric dispersion (like pixels or polygons), but a random, free dispersion that resembles scattering liquids or ash in the air.
+◦	Motion Gradient: The dispersion appears to move from the left of the image to the right. The effect starts dense and connected to the person's body, then gradually fragments into scattered spots and droplets that decrease in size as they move away from the body and fade into the white background.
+2.	Colors (Color Dynamics)
+◦	The effect here is realistic and linked to the element; it relies on reproducing the person's own colors. The scattered parts on the right take on a dense black color, while the lower parts take on grayish colors. This color harmony gives a real impression that the person's body or clothes are what is scattering.
+3.	Placement in the Design
+◦	Primary Focus: Heavily concentrated on the right side of the main image and slightly on the left side, to hide the sharp edge of the image cutout and artistically blend it with the plain background.
+◦	Secondary Focus: Dispersion also appears below the large main image (around the hands and dagger/Jambiya area), as a base where the image edges fade instead of having a sharp cut-off line.
+4.	Artistic Purpose of the Effect
+◦	Breaking Monotony: Avoid hard edges for personal photos within posters.
+◦	Visual Guidance: The dispersion extending to the right fills the white space in the poster in a balanced way, leads the viewer's eye towards the center of the design, and lends a cinematic and modern feel.
+-----Typography and Text Formatting (Arabic and English):
+
+Upper Center: The word 'wedding' written in an elegant, thin brown connected script.
+
+Upper Left (Vertical Text): Two parallel lines of text vertically (read from top to bottom).
+•	Inner Line: Dark brown Arabic text: 'اسامة نجيب الشرعبي'
+•	Outer Line: Small brown English text for the same name in English.
+Bottom Right (Date Block):
+•	A large, bold dark gray/dark blue number '25.'
+•	Immediately to its left, a vertical brown rectangular badge containing the white text '2026/12.'
+•	To the left of that, the Arabic text in dark gray/dark blue: 'المقيل' (top) and 'والحناء' (bottom).
+•	Below this block, inside a rectangular white box with thin brown borders, is written in brown Arabic: 'صالة : بيكسلاب برو بلاس'
+Bottom Left (Details): Lines of clear dark gray/dark blue Arabic copy text:
+•	First Line: 'الزفة : الخميس 2026/12/26'
+•	Second Line: 'صالة بيكسلاب برو بلاس - شارع المصممين'
+Far Left Edge: Small brown vertical text reading upwards: 'اسامة للإعلان | 771588068' next to a small square block.-----Lighting and Atmosphere:
+
+Bright, soft cinematic studio lighting around the subject. High contrast in the ink splatter effect. Luxurious and modern aesthetic, extremely realistic clarity.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+
+Length 3000 : Width 2000
+
+2:3",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

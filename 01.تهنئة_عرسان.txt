@@ -1,0 +1,6 @@
+{
+  "quotes": [
+"سيتم الإضافة قريباً",
+"It will be added soon."
+  ]
+}

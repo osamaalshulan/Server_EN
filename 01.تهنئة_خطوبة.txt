@@ -1,0 +1,134 @@
+{
+  "quotes": [
+"↑￼↑ #1 *****
+High-resolution professional design for a vertical congratulatory poster.
+
+Background and Graphic Elements: A pure white and light grey background. The upper part features large, overlapping, fluid organic shapes (blobs) in a vibrant teal and a calm sky blue. Subtle decorative elements include scattered grids of small teal dots on the right edges (top, middle, and bottom), and a very large, faint light-blue plus sign (+) shape in the lower left of the background.
+
+Main Image (with fine details):
+In the upper half, a main image is contained within a circular, rounded-square organic mask, outlined by a thin, elegant, and overlapping golden line.
+
+The Person: A realistic photo of the same person from the reference image. Use 100% of his face; your face must be exactly like the original selfie image—no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions. He is looking directly at the camera.
+
+The Outfit: He is wearing a smart olive-green/grey suit jacket over a crisp white shirt.
+
+Interior Background: The background directly behind him inside the frame is dark, illuminated by a dense curtain of warm, glowing yellow string lights (bokeh effect) suggesting a celebratory hall.
+
+Typography and Text Formatting (Arabic and English):
+All text is written in a clear, modern Arabic font in cyan/teal color, without serifs.
+
+Top Center: Large, prominent text with a smooth, continuous gradient starting from light cyan/turquoise to dark teal, stacked: 'أجمل التهاني'  and immediately below it 'والتبريكات' . Directly to the immediate left of this section only, a small, bold text: 'للشاب الخلوق' .
+
+The Name: Large, prominent text with a smooth, continuous gradient starting from light cyan/turquoise to dark teal, with a distinctive white frame/glow: 'اسامة نجيب' .
+•	Text Below the Name: Two lines of text:
+◦	Line 1: 'بمناسبــــــة الخطوبة فألف ألــف' 
+◦	Line 2: 'مبــــــرووك متمنين له دوام السعادة والتوفيق' 
+•	Right Edge (Vertically): Small, light cyan text oriented vertically to be read upwards: 'OSAMA - 771588068'.
+•	Footer (Bottom):
+◦	Right Side: A vector design of a modern, curved geometric badge with rounded corners, forming an asymmetric design that resembles a dynamic tab or a flat-sided drop. The badge contains a smooth, continuous gradient starting from dark teal to light cyan/turquoise. Inside the badge, crisp white Arabic text stands out in a bold font; the word 'تهنئة'  is large, and immediately below it, the word 'خاصة' is in a small font. The design style is flat vector, clean, and minimalist, suitable for official cards.
+◦	Left of the Badge: Two lines of cyan text: 'مقدمة من :'  (top) and 'كافة الأهل والأصدقاء' (bottom).
+Lighting and Atmosphere:
+Clean, modern, and institutional yet festive aesthetic. A bright, flat graphic design mixed with a realistic photo. High resolution, clear printing, 8K.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+2:3",
+"↑￼↑ #2 *
+Professional, high-resolution vertical engagement congratulatory poster design.
+
+Background: A pure, light gray/white background.
+
+Top Left: Two antique Edison-style light bulbs hanging from the top edge by black wires.
+
+Far Right: Large, very faint, semi-transparent, light grey Arabic text, written vertically: 'مبروك الخطوبة' , partially cropped from the right edge.
+
+Main Image (Center, with fine details):
+
+A vertical rectangular photo frame with rounded corners, surrounded by a thin gold border and a soft black shadow. Inside the frame: a realistic photo of the person from the original image. Use 100% of their face; their face should be exactly like the original selfie - no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions. From the waist up, they are wearing a black suit jacket over a pure white Thobe (robe). Wrapped around their waist is a wide, dark black belt (Asib) carrying a traditional curved Yemeni dagger (Jambiya) with a light wooden handle and a light brown sheath. Their right hand rests naturally near the belt. The background inside the photo frame is a naturally blurred outdoor street scene in daylight, with a soft bokeh effect of indistinct cars.
+
+Typographical Design and Text Formatting (Arabic and English):
+
+Top Center: The phrase 'تهانينا'  in a flowing, flame-like 3D Arabic font in gold, with a distinctive white outline/glow, underlined with a thin gold line. Directly beneath it, the phrase 'أسمى آيات التهاني والتبريكات'  in a smaller, simple Arabic font of the same color.
+
+Upper Middle: A single line of black Arabic copy text: 'نهديها للشاب الخلوق:' .
+
+Left Side (Vertical Calligraphy): In a modern, flowing, flame-like 3D Arabic font in black, with a distinctive white outline/glow, 'خطوبة مباركة' , oriented vertically and read from top to bottom, placed to the left of the image.
+
+Below the Portrait:
+•	Line 1: In a flowing, flame-like 3D Arabic font in black, with a distinctive white outline/glow, 'اسامة نجيب' .
+•	Line 2: Bold and gold Arabic copy text: 'ألف ألف مبرووووك' .
+Footer (Bottom) with a very faint, semi-transparent gray background:
+•	To the right: Small black Arabic text: 'تهنئة مقدمة من :' .
+•	Center details: Bold black Arabic text: 'كافة الأهل والأصدقاء' .
+Lighting and Atmosphere:
+
+A clean, simple, and elegant aesthetic for the poster elements. Bright, natural outdoor lighting for the interior image. High resolution, clear printing, 8K.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+
+3:4",
+"↑￼↑ #3 *
+Blessed Engagement
+
+Professional, high-resolution, vertical engagement congratulation poster design.
+
+Background: Pure, light grey/white background.
+
+Top Left: Two antique Edison light bulbs hanging from the top edge by black wires.
+
+Far Right: Large, very faint, semi-transparent, light grey Arabic text written vertically 'خطوبة مباركة' , partially cropped from the right edge.
+
+Main Image (In the Center, with fine details):
+
+A vertical rectangular photo frame with rounded corners, surrounded by a thin gold border and a soft blue-grey shadow. Inside the frame: A realistic picture of the person from the original image. Use 100% of their face; your face must be exactly like the original selfie—no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions. From the waist up, they are wearing a light blue-grey suit jacket over a pure white thobe (robe). On their head, they are wearing a dark blue, patterned traditional Yemeni shemagh/ghutra (shawl/headscarf), tied back. A wide black belt wraps around their waist, holding a curved traditional Yemeni dagger (Jambiya) with a light wooden handle and a light brown sheath. Their right hand rests naturally near the belt. The background inside the photo frame is a naturally blurred outdoor street scene in daylight, with a soft bokeh effect of indistinct cars.
+
+Typographic Design and Text Formatting (Arabic and English):
+
+Top Center: The phrase 'الحمدلله' , a large, elegant, modern, gold, ornate Arabic text, underlined with a thin gold line. Directly below it, the phrase 'الذي بنعمته تتم الصالحات'  in a smaller, simple gold Arabic font.
+
+Upper Middle: A single line of clear black Arabic copy text: 'بأسمى آيات التهاني والتبريكات' .
+
+*Left Side (Vertical Text): In a modern, fluid, flame-like 3D gold Arabic font with a distinctive white frame/glow, 'مبروك الخطوبة' , oriented vertically and read from top to bottom, placed to the left of the image.
+
+*Below the Personal Image: - Line 1: In a modern, fluid, flame-like 3D bold black Arabic font, with a distinctive white frame/glow, 'اسامة نجيب'.
+- Line 2: Bold gold Arabic copy text 'ألف ألف مبرووووك' .
+*Footer (Bottom) with a very faint, semi-transparent, light grey background: - To the Right: Small black Arabic text 'تهنئة مقدمة من :' .
+- Middle Details: Dark grey Arabic text 'كافة الأهل والأصدقاء' .
+Lighting and Atmosphere:
+
+A clean, simple, and elegant aesthetic for the poster elements. Bright, natural outdoor lighting for the internal image. High resolution, clear print, 8K.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+
+3:4",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}

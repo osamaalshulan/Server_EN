@@ -87,6 +87,29 @@ Bright, soft cinematic studio lighting around the subject. High contrast in the 
 Length 3000 : Width 2000
 
 2:3",
+"↑￼↑ #3
+Create an elegant and professional vertical digital wedding invitation poster. In the center, an image of the same person from the reference photo, use 100% of his face. Your face must be exactly like the original selfie photo - without editing, retouching, or smoothing. Maintain all facial features.
+
+He is wearing a traditional Yemeni outfit with full details. A dark black, carefully wrapped turban (ghutra/shawl) adorned with bright gold patterns rests on his head, and a bright white, long-sleeved shirt decorated with prominent traditional folds at the shoulders. He is adorned with two dark black belts crossed on his chest, heavily studded with circular gold pins, wide black leather wrist cuffs studded with circular gold pins, and a wide belt around his waist carrying a traditional Yemeni dagger (Jambiya) with an ornate handle and sheath. He carries an antique wooden and metal rifle slung over his left shoulder, clearly visible behind his back.
+
+His left hand rests near the belt. He wears a silver wristwatch on his left wrist, and a silver ring set with a prominent red agate stone on one finger of his right hand. The background is a warm and glowing color gradient of light beige and gold with soft bokeh effects and delicate traditional Islamic geometric patterns. The lower half of the groom's image merges seamlessly with the glowing background.
+
+Background: A warm and glowing image with an ethereal color gradient of light beige and gold with soft bokeh effects and delicate traditional Islamic geometric patterns.
+
+At the top center, there is an elegant artistic Arabic calligraphy in a brown and orange gradient displaying the phrase 'دعوة عامة'  along with the English word 'Wedding Card'.
+
+Below the image, there is a small text in the center that says 'فخامة العريس' .
+
+And at the bottom, the groom's name, 'اسامة نجيب' , is written in large, prominent, 3D brown and orange gradient font.
+
+Below the name are two dark black, rounded rectangular badges (pill-shaped) with white Arabic text: the first says 'يتشرف الوالد / نجيب عبدالحميد دماج' and the second says 'بدعوتكم لحظور المقيل والزفة والسمرة' .
+
+Below these badges is a horizontal brown and orange stripe containing the date '2027/7/7', the day 'الثلاثاء'  with a small calendar icon, the venue 'صالة بيكسلاب برو بلاس، الدور الأول' , and the location 'شــــــــــــارع المصممين'  with a map pin icon. (The edges of this stripe appear to be cut/surrounded by slanted design lines).
+
+And at the bottom, an elegant Arabic line says 'وبحضوركم يكتمل الفرح والسرور' . High-definition professional printing and warm festive lighting.
+
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+2:3",
 "■ كيفية إستخدام البرومبت ✓
 ..........................................
  1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.

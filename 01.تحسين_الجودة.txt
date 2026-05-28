@@ -1,0 +1,47 @@
+{
+  "quotes": [
+"↑￼↑ #1
+A super-realistic, high-resolution studio portrait of the same person from the reference photo. Using 100% of their face, your face should look exactly like the original selfie—preserving all facial features. Their skin is rendered with a porcelain-smooth perfection, completely free of imperfections or texture, using advanced skin smoothing and beautification techniques, giving it a smooth, polished appearance. The lighting is ultra-soft and evenly distributed with beauty lighting that eliminates harsh shadows and highlights. The image boasts exceptional quality enhanced by Remini: extremely high definition and clarity of facial features, ultra-smooth skin tones, and a subtle AI-generated aesthetic.
+
+The same background and pose are maintained.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"↑￼↑ #2
+A super-realistic, high-resolution portrait of the same person from the reference photo. Using 100% of their face, your face should look exactly like the original selfie—preserving all facial features. Their skin is rendered with a porcelain-smooth perfection, completely free of imperfections or texture, using advanced skin smoothing and beautification techniques, giving it a smooth, polished appearance. The lighting is ultra-soft and evenly distributed with beauty lighting that eliminates harsh shadows and highlights. The image boasts exceptional quality enhanced by Remini: extremely high definition and clarity of facial features, ultra-smooth skin tones, and a subtle AI-generated aesthetic.
+
+The same background and pose are maintained.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}
